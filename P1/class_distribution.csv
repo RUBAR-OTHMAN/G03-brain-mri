@@ -1,0 +1,6 @@
+label,source,group_unit,raw_images,clean_images,train_images,dev_images,test_images,train_share,dev_share,test_share,train_groups,dev_groups,test_groups
+glioma,figshare,patient,1426,1426,997,225,204,0.301,0.308,0.299,61,14,14
+meningioma,figshare,patient,708,708,498,113,97,0.151,0.155,0.142,61,11,10
+pituitary,figshare,patient,930,930,647,148,135,0.196,0.202,0.198,42,11,9
+notumor,kaggle,unique slice,1800,1657,1166,245,246,0.352,0.335,0.361,353,66,69
+total,,,4864,4721,3308,731,682,1.0,1.0,1.0,517,102,102

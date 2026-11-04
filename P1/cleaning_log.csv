@@ -1,0 +1,1915 @@
+path,action,detail
+braintumormri_kaggle/Training/notumor/Tr-no_1.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_10.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_100.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1000.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1001.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1002.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1003.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1004.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1005.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1006.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1007.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1008.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1009.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_101.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1010.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1011.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1012.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1013.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1014.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1015.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1016.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1017.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1018.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1019.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_102.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1020.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1021.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1022.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1023.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1024.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1025.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1026.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1027.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1028.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1029.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_103.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1030.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1031.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1032.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1033.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1034.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1035.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1036.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1037.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1038.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1039.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_104.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1041.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1042.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1043.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1044.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1045.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1046.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1047.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1048.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1049.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_105.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1050.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1051.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1052.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1053.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1054.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1055.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1056.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1057.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1058.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1059.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1060.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1061.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1062.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1063.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1064.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1065.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1066.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1067.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1068.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1069.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_107.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1070.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1071.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1072.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1073.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1074.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1075.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1076.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1077.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1078.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1079.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_108.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1080.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1081.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1082.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1083.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1084.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1085.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1086.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1087.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1088.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1089.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_109.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1090.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1091.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1092.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1093.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1094.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1095.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1096.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1097.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1098.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1099.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_11.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_110.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1100.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1101.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1102.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1103.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1104.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1105.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1106.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1107.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1108.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1109.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_111.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1110.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1111.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1112.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1113.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1114.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1115.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1116.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1117.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1118.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1119.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_112.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1120.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1121.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1122.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1123.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1124.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1125.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1126.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1127.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1128.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1129.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_113.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1130.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1131.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1132.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1133.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1134.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1135.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1136.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1137.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1138.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1139.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_114.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1140.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1141.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1142.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1143.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1144.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1145.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1146.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1147.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1148.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1149.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_115.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1150.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1151.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1152.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1153.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1154.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1155.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1156.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1157.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1158.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1159.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_116.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1160.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1161.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1162.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1163.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1164.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1165.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1166.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1167.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1168.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1169.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_117.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1170.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1171.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1172.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1173.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1174.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1175.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1176.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1177.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1178.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1179.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_118.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1180.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1181.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1182.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1183.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1184.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1185.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1186.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1187.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1188.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1189.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_119.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1190.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1191.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1192.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1193.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1194.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1195.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1196.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1197.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1198.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1199.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_120.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1200.jpg,converted_to_gray,RGBA -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1201.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1202.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1203.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1204.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1205.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1206.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1207.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1208.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1209.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_121.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1210.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1211.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1212.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1214.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1215.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1216.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1217.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1218.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1219.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_122.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1220.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1221.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1222.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1223.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1224.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1225.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1226.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1227.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1228.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1229.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_123.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1230.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1231.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1232.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1233.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1234.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1235.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1236.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1237.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1238.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1239.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_124.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1240.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1241.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1242.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1243.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1244.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1245.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1246.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1247.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1248.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1249.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_125.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1250.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1251.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1252.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1253.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1254.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1255.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1256.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1257.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1258.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1259.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_126.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1260.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1261.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1263.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1264.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1265.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1266.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1267.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1268.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1269.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_127.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1270.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1271.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1272.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1273.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1274.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1275.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1276.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1277.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1278.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1279.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_128.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1280.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1281.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1282.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1283.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1284.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1285.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1286.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1287.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1288.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1289.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_129.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1290.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1291.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1292.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1293.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1294.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1295.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1296.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1297.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1298.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1299.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_13.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_130.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1300.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1301.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1302.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1303.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1304.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1305.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1306.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1307.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1308.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1309.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_131.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1310.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1311.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1312.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1313.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1314.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1315.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1316.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1317.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1318.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1319.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_132.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1320.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1321.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1322.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1324.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1325.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1326.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1327.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1328.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1329.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_133.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1330.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1331.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1332.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1333.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1334.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1335.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1336.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1337.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1338.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1339.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_134.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1340.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1341.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1342.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1344.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1345.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1346.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1347.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1348.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1349.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_135.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1350.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1351.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1352.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1353.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1354.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1355.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1356.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1357.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1358.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1359.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_136.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1360.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1361.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1362.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1363.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1364.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1365.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1366.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1367.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1368.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1369.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_137.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1370.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1371.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1372.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1373.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1374.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1375.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1376.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_1377.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1378.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1379.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_138.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1380.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1382.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1383.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1384.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1385.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1386.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1387.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1388.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1389.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_139.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1390.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1391.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1392.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1393.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1394.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1395.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1396.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1397.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1398.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1399.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_14.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_140.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_1400.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_141.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_142.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_143.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_144.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_145.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_146.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_147.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_148.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_149.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_15.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_150.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_151.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_152.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_153.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_154.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_155.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_156.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_157.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_158.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_159.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_16.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_160.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_161.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_162.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_163.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_164.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_165.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_166.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_167.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_168.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_169.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_17.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_170.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_171.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_172.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_173.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_174.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_175.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_176.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_177.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_178.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_179.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_18.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_180.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_181.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_182.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_183.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_184.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_185.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_186.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_187.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_188.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_189.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_19.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_190.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_191.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_192.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_193.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_194.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_195.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_196.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_197.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_198.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_199.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_2.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_20.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_200.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_201.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_202.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_203.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_204.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_205.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_206.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_207.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_208.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_209.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_21.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_210.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_211.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_212.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_213.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_214.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_215.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_216.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_217.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_218.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_219.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_22.jpg,converted_to_gray,RGBA -> L
+braintumormri_kaggle/Training/notumor/Tr-no_220.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_221.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_222.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_223.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_224.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_225.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_226.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_227.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_228.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_229.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_23.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_230.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_231.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_232.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_233.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_234.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_235.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_236.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_237.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_238.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_239.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_24.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_240.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_241.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_242.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_243.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_244.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_245.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_246.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_247.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_248.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_249.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_25.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_250.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_252.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_253.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_254.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_255.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_256.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_257.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_258.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_259.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_26.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_260.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_261.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_262.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_263.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_264.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_265.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_266.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_267.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_268.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_269.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_27.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_270.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_271.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_272.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_273.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_274.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_275.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_276.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_277.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_278.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_279.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_28.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_280.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_281.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_282.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_283.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_285.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_286.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_287.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_288.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_289.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_29.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_290.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_291.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_292.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_293.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_294.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_295.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_296.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_297.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_298.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_299.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_3.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_30.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_300.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_301.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_302.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_303.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_304.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_305.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_306.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_307.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_308.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_309.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_31.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_310.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_311.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_312.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_313.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_314.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_315.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_316.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_317.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_318.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_319.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_32.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_320.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_321.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_323.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_324.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_325.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_326.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_327.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_328.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_329.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_33.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_330.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_331.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_332.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_333.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_334.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_335.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_336.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_337.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_338.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_339.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_34.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_340.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_341.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_342.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_343.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_344.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_345.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_346.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_347.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_348.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_349.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_35.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_350.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_351.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_352.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_353.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_354.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_355.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_356.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_357.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_358.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_359.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_36.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_360.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_361.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_362.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_363.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_364.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_365.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_366.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_367.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_368.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_369.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_37.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_370.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_371.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_372.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_373.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_374.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_375.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_376.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_377.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_378.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_379.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_38.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_380.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_381.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_382.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_383.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_384.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_385.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_386.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_387.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_388.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_389.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_39.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_390.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_391.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_392.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_393.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_394.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_395.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_396.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_397.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_398.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_399.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_4.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_40.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_400.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_401.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_402.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_403.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_404.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_405.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_406.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_407.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_408.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_409.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_41.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_410.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_411.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_412.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_413.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_414.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_416.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_417.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_418.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_419.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_42.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_420.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_421.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_422.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_423.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_424.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_425.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_426.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_427.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_428.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_429.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_43.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_430.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_431.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_432.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_433.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_434.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_435.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_436.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_437.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_438.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_439.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_44.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_440.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_441.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_442.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_443.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_444.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_445.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_446.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_447.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_448.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_449.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_45.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_450.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_451.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_452.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_453.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_454.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_455.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_456.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_457.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_458.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_459.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_46.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_460.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_461.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_462.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_463.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_464.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_465.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_466.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_467.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_468.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_469.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_47.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_470.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_471.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_472.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_473.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_475.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_476.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_477.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_478.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_479.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_48.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_480.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_481.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_482.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_483.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_484.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_485.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_486.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_487.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_488.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_489.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_49.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_490.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_491.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_492.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_493.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_494.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_495.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_496.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_497.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_498.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_499.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_5.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_50.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_500.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_501.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_502.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_503.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_504.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_505.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_506.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_507.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_508.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_509.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_51.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_510.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_511.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_512.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_513.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_514.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_515.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_516.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_517.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_518.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_519.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_52.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_520.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_521.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_522.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_523.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_524.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_525.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_526.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_527.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_528.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_529.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_53.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_530.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_531.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_532.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_533.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_534.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_535.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_536.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_537.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_538.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_539.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_54.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_540.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_541.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_542.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_543.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_544.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_545.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_546.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_547.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_548.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_549.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_55.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_550.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_551.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_552.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_553.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_554.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_555.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_556.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_557.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_558.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_559.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_56.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_560.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_561.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_562.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_563.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_564.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_565.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_566.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_567.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_568.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_569.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_57.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_570.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_571.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_572.jpg,converted_to_gray,RGBA -> L
+braintumormri_kaggle/Training/notumor/Tr-no_573.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_574.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_575.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_576.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_577.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_578.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_579.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_58.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_580.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_581.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_582.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_583.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_584.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_585.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_586.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_587.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_588.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_589.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_59.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_590.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_591.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_592.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_593.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_594.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_595.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_596.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_597.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_598.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_599.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_6.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_60.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_600.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_601.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_602.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_603.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_604.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_605.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_606.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_607.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_608.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_609.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_61.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_610.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_612.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_613.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_614.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_615.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_616.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_617.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_618.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_619.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_62.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_621.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_622.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_623.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_624.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_625.jpg,converted_to_gray,P -> L
+braintumormri_kaggle/Training/notumor/Tr-no_626.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_627.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_628.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_629.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_63.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_630.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_631.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_632.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_633.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_634.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_635.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_636.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_637.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_638.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_639.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_64.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_640.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_641.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_642.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_643.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_644.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_645.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_646.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_647.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_648.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_649.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_65.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_650.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_651.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_652.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_653.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_654.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_655.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_656.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_657.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_658.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_659.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_66.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_660.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_661.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_662.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_663.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_664.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_665.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_666.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_667.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_668.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_669.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_67.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_670.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_671.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_672.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_673.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_674.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_675.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_676.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_677.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_678.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_679.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_68.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_680.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_681.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_682.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_683.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_684.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_685.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_686.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_687.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_688.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_689.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_69.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_690.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_691.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_692.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_693.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_694.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_695.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_696.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_697.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_698.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_699.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_7.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_70.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_700.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_701.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_702.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_703.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_704.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_705.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_706.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_707.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_708.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_709.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_71.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_710.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_711.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_712.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_713.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_714.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_715.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_716.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_717.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_718.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_719.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_72.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_720.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_721.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_722.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_723.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_724.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_725.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_726.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_727.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_728.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_729.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_73.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_730.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_731.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_732.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_733.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_734.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_735.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_736.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_737.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_738.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_739.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_740.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_741.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_742.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_743.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_744.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_745.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_746.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_747.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_748.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_749.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_75.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_750.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_751.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_752.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_753.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_754.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_755.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_756.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_757.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_758.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_759.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_76.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_760.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_761.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_762.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_763.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_764.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_765.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_766.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_767.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_768.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_769.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_77.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_770.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_771.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_772.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_773.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_774.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_775.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_776.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_777.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_778.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_779.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_78.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_780.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_781.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_782.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_783.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_784.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_785.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_786.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_788.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_789.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_79.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_790.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_791.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_792.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_793.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_794.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_795.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_796.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_797.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_798.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_799.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_8.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_80.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_800.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_801.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_802.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_803.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_804.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_805.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_807.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_808.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_809.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_81.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_810.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_811.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_812.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_813.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_814.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_815.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_816.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_817.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_818.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_819.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_82.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_820.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_821.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_822.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_823.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_824.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_825.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_826.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_827.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_828.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_829.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_83.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_830.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_831.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_832.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_833.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_834.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_835.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_836.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_837.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_838.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_839.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_84.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_840.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_841.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_842.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_843.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_844.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_845.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_846.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_847.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_848.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_849.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_85.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_850.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_851.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_852.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_853.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_854.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_855.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_856.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_857.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_858.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_859.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_86.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_860.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_861.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_862.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_863.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_864.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_865.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_866.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_867.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_868.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_869.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_87.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_871.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_872.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_873.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_874.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_875.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_876.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_877.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_878.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_879.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_88.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_880.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_881.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_882.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_883.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_884.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_885.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_886.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_887.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_888.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_889.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_89.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_890.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_891.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_892.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_893.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_894.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_895.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_896.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_897.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_898.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_899.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_9.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_90.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_900.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_901.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_902.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_903.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_904.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_905.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_906.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_907.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_909.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_91.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_910.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_911.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_913.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_914.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_915.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_916.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_917.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_918.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_919.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_92.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_920.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_921.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_922.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_923.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_924.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_925.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_926.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_927.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_928.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_929.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_93.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_930.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_931.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_932.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_933.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_934.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_935.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_936.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_937.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_938.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_939.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_94.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_940.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_941.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_942.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_943.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_944.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_945.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_946.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_947.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_948.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_949.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_95.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_950.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_951.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_952.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_953.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_954.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_956.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_957.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_958.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_959.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_96.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_960.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_961.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_962.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_963.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_964.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_965.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_966.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_967.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_968.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_969.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_97.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_970.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_971.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_972.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_973.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_974.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_975.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_976.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_977.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_978.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_979.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_98.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_980.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_981.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_982.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_983.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_984.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_985.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_986.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_987.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_989.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_99.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_990.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_991.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_992.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_993.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_994.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_995.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_996.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Training/notumor/Tr-no_997.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_998.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_999.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_1.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_10.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_100.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_101.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_102.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_103.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_104.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_105.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_106.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_107.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_108.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_109.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_110.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_111.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_112.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_113.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_114.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_115.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_116.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_117.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_118.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_119.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_12.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_120.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_121.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_122.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_123.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_124.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_125.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_126.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_127.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_128.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_129.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_13.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_130.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_131.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_132.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_133.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_134.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_135.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_136.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_137.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_138.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_139.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_14.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_140.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_141.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_142.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_143.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_144.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_145.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_146.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_147.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_148.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_149.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_15.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_150.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_151.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_152.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_153.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_154.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_155.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_156.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_157.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_158.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_159.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_16.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_160.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_161.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_162.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_163.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_164.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_165.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_166.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_167.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_168.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_169.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_17.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_170.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_171.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_172.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_173.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_174.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_175.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_176.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_177.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_178.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_179.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_18.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_180.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_181.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_182.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_183.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_184.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_185.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_186.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_187.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_188.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_189.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_19.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_190.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_191.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_192.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_193.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_194.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_195.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_196.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_197.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_198.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_199.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_2.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_20.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_200.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_201.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_202.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_203.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_204.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_205.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_206.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_207.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_208.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_209.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_21.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_210.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_211.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_212.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_213.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_214.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_215.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_216.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_217.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_218.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_219.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_22.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_220.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_221.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_222.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_223.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_224.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_225.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_226.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_227.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_228.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_229.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_23.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_230.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_232.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_233.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_234.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_235.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_236.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_237.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_238.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_239.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_24.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_240.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_241.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_242.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_243.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_244.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_245.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_246.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_247.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_249.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_25.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_250.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_251.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_252.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_253.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_254.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_255.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_256.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_257.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_258.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_259.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_26.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_260.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_261.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_262.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_263.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_264.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_265.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_266.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_267.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_268.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_269.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_27.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_270.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_272.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_273.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_274.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_275.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_276.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_277.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_278.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_279.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_28.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_280.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_281.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_282.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_283.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_284.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_285.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_286.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_287.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_288.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_289.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_29.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_290.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_291.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_292.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_293.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_294.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_295.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_296.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_297.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_298.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_299.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_3.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_30.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_300.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_301.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_302.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_303.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_304.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_305.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_306.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_307.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_308.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_309.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_31.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_310.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_311.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_312.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_313.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_314.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_315.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_316.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_317.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_318.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_319.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_32.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_320.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_321.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_322.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_323.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_324.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_325.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_326.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_327.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_328.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_329.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_33.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_330.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_331.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_332.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_333.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_334.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_335.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_336.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_337.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_338.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_339.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_34.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_340.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_341.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_342.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_343.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_344.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_345.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_346.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_347.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_348.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_349.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_35.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_350.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_351.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_352.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_353.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_354.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_355.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_356.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_357.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_358.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_359.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_36.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_360.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_361.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_362.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_364.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_365.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_366.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_367.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_368.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_369.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_37.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_370.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_371.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_372.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_373.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_374.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_375.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_376.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_377.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_378.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_379.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_38.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_380.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_381.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_382.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_383.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_384.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_385.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_386.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_387.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_388.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_389.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_39.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_390.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_391.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_392.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_393.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_394.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_395.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_396.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_397.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_398.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_399.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_4.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_40.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_400.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_41.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_42.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_43.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_44.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_45.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_46.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_47.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_48.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_5.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_50.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_51.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_52.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_53.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_54.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_55.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_56.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_57.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_58.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_59.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_6.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_60.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_61.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_62.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_63.jpg,converted_to_gray,RGB -> L (had real color)
+braintumormri_kaggle/Testing/notumor/Te-no_64.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_65.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_66.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_67.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_68.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_69.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_7.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_70.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_71.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_72.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_73.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_74.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_75.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_76.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_77.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_78.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_79.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_8.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_80.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_81.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_82.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_83.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_84.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_85.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_86.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_87.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_88.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_89.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_9.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_90.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_91.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_92.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_93.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_94.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_95.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_96.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_97.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_98.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Testing/notumor/Te-no_99.jpg,converted_to_gray,RGB -> L
+braintumormri_kaggle/Training/notumor/Tr-no_105.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1000.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_109.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1062.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1134.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1061.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1158.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1051.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1178.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_112.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1183.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1062.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1188.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_115.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_121.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_116.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1234.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1145.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1235.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1154.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1253.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1194.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1265.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_112.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_129.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1079.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1320.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1179.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_133.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1245.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1339.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1015.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1360.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1154.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1380.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1109.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1383.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_138.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1385.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1039.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1392.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1244.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_1400.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1077.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_154.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1203.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_156.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1289.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_165.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1336.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_17.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1395.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_217.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1083.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_219.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_194.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_230.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_168.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_232.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_224.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_235.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1334.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_255.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_134.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_273.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1333.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_275.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1295.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_281.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1290.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_29.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_224.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_308.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_112.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_330.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1051.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_341.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1302.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_371.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1062.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_380.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1267.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_387.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1267.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_400.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1023.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_410.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1208.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_411.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1326.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_412.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1070.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_420.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1187.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_430.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1145.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_44.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1190.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_448.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_280.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_454.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1046.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_463.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_356.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_472.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_250.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_475.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1316.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_48.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_14.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_490.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1291.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_492.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_433.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_494.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_112.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_5.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1062.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_503.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1021.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_516.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1398.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_534.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1378.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_543.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_539.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_550.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1281.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_564.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1126.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_565.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1390.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_569.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1105.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_581.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_40.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_582.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_421.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_594.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1169.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_60.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_293.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_600.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1039.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_606.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1261.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_617.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_524.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_62.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1079.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_63.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_423.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_636.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_388.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_639.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1205.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_642.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1393.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_660.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1397.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_664.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_493.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_677.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1180.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_69.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1095.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_692.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1085.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_693.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1062.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_699.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1309.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_720.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_447.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_725.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1203.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_73.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_56.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_734.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_499.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_738.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_168.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_747.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_3.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_749.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1140.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_753.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_540.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_755.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_435.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_764.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_577.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_767.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1085.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_778.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_473.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_779.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_349.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_781.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1244.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_8.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_315.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_81.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_721.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_810.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1379.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_817.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_649.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_819.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1016.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_825.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1330.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_831.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1288.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_839.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_447.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_840.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1374.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_843.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_750.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_846.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_292.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_854.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1154.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_863.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1288.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_864.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1063.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_866.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_455.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_889.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1346.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_906.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_58.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_911.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1274.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_916.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_304.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_918.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_880.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_92.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_518.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_920.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_486.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_93.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_638.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_930.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_698.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_931.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1140.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_935.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_315.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_946.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_813.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_963.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_43.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_967.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_766.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_969.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_933.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_98.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1085.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_989.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_588.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_990.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1240.jpg
+braintumormri_kaggle/Training/notumor/Tr-no_995.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_673.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_121.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_832.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_150.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_247.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_159.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_970.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_167.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_147.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_194.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1004.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_315.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_760.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_365.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_362.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_77.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1096.jpg
+braintumormri_kaggle/Testing/notumor/Te-no_92.jpg,dropped_exact_duplicate,same pixels as braintumormri_kaggle/Training/notumor/Tr-no_1319.jpg

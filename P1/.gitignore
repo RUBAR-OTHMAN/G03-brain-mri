@@ -1,0 +1,8 @@
+﻿braintumormri_figshare/
+braintumormri_kaggle/
+cleaned/
+*.mat
+manifest.csv
+manifest_clean.csv
+image_stats_features.csv
+__pycache__/
