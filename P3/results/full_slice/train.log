@@ -1,0 +1,31 @@
+device mps | train 3308 | dev 731
+epoch  1 warmup   | train loss 0.786 acc 0.793 | dev loss 0.461 acc 0.874 f1 0.859 | 77s
+epoch  2 warmup   | train loss 0.468 acc 0.879 | dev loss 0.357 acc 0.899 f1 0.888 | 76s
+epoch  3 finetune | train loss 0.221 acc 0.923 | dev loss 0.109 acc 0.955 f1 0.948 | 111s
+epoch  4 finetune | train loss 0.059 acc 0.983 | dev loss 0.085 acc 0.966 f1 0.959 | 109s
+epoch  5 finetune | train loss 0.042 acc 0.989 | dev loss 0.087 acc 0.966 f1 0.960 | 110s
+epoch  6 finetune | train loss 0.027 acc 0.992 | dev loss 0.081 acc 0.970 f1 0.963 | 113s
+epoch  7 finetune | train loss 0.012 acc 0.996 | dev loss 0.070 acc 0.969 f1 0.962 | 112s
+epoch  8 finetune | train loss 0.006 acc 0.998 | dev loss 0.077 acc 0.971 f1 0.966 | 110s
+epoch  9 finetune | train loss 0.004 acc 0.999 | dev loss 0.080 acc 0.970 f1 0.964 | 113s
+epoch 10 finetune | train loss 0.006 acc 0.998 | dev loss 0.078 acc 0.970 f1 0.964 | 112s
+epoch 11 finetune | train loss 0.002 acc 0.999 | dev loss 0.077 acc 0.971 f1 0.966 | 113s
+epoch 12 finetune | train loss 0.002 acc 1.000 | dev loss 0.077 acc 0.971 f1 0.966 | 110s
+
+best epoch 12
+              precision    recall  f1-score   support
+
+      glioma      0.981     0.942     0.961       225
+  meningioma      0.886     0.965     0.924       113
+   pituitary      0.980     0.993     0.987       148
+     notumor      1.000     0.988     0.994       245
+
+    accuracy                          0.971       731
+   macro avg      0.962     0.972     0.966       731
+weighted avg      0.973     0.971     0.972       731
+
+                 pred_glioma  pred_meningioma  pred_pituitary  pred_notumor
+true_glioma              212               13               0             0
+true_meningioma            4              109               0             0
+true_pituitary             0                1             147             0
+true_notumor               0                0               3           242
