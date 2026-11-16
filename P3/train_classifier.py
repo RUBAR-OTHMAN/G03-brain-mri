@@ -3,7 +3,8 @@
 Uses P1's shared loader (brain_mri_data.py) so preprocessing and splits match the team.
 Only train and dev are touched here. Test is for the final comparison.
 
-    python train_classifier.py --data-root ../../integration_project
+    python train_classifier.py --data-root ../../integration_project                 # full slice
+    python train_classifier.py --data-root ../../integration_project --input crop    # oracle crops
     # on colab: --data-root /content/drive/MyDrive/integration_project
 
 data-root is the integration_project folder: it has splits.csv, brain_mri_data.py and the images.
@@ -11,6 +12,9 @@ data-root is the integration_project folder: it has splits.csv, brain_mri_data.p
 Training (from the proposal): ImageNet ResNet-50, new 4-class fc head, backbone frozen for a
 warm-up, then everything unfrozen and fine-tuned. Weighted cross-entropy for the 2.3x imbalance.
 The checkpoint kept is the epoch with the best dev macro-F1.
+
+--input crop swaps only the input for the controlled comparison: crops from crop_data.py (P2's
+tumor crop on ground-truth masks, size-matched decoy boxes for no-tumor). Everything else is equal.
 """
 import argparse
 import os
@@ -28,7 +32,8 @@ from sklearn.metrics import classification_report, confusion_matrix, f1_score
 
 p = argparse.ArgumentParser()
 p.add_argument('--data-root', required=True)
-p.add_argument('--out', default='results/full_slice')
+p.add_argument('--input', choices=['full', 'crop'], default='full')
+p.add_argument('--out', help='default: results/full_slice or results/crop')
 p.add_argument('--warmup-epochs', type=int, default=2)
 p.add_argument('--finetune-epochs', type=int, default=10)
 p.add_argument('--batch-size', type=int, default=32)
@@ -39,6 +44,7 @@ p.add_argument('--seed', type=int, default=539)
 args = p.parse_args()
 
 data_root = os.path.abspath(args.data_root)
+args.out = args.out or {'full': 'results/full_slice', 'crop': 'results/crop'}[args.input]
 sys.path.append(data_root)
 from brain_mri_data import LABELS, class_weights, make_loader  # noqa: E402
 
@@ -82,10 +88,16 @@ def main():
     device = pick_device()
     os.makedirs(args.out, exist_ok=True)
 
-    train_loader = make_loader('train', batch_size=args.batch_size, root=data_root,
-                               num_workers=args.workers, hflip=True)
-    dev_loader = make_loader('dev', batch_size=64, root=data_root, num_workers=args.workers)
-    print(f"device {device} | train {len(train_loader.dataset)} | dev {len(dev_loader.dataset)}")
+    if args.input == 'full':
+        train_loader = make_loader('train', batch_size=args.batch_size, root=data_root,
+                                   num_workers=args.workers, hflip=True)
+        dev_loader = make_loader('dev', batch_size=64, root=data_root, num_workers=args.workers)
+    else:
+        from crop_data import make_crop_loader, train_tumor_box_dims
+        box_dims = train_tumor_box_dims(data_root)
+        train_loader = make_crop_loader('train', data_root, box_dims, args.batch_size, args.workers, hflip=True)
+        dev_loader = make_crop_loader('dev', data_root, box_dims, 64, args.workers)
+    print(f"input {args.input} | device {device} | train {len(train_loader.dataset)} | dev {len(dev_loader.dataset)}")
 
     model = torchvision.models.resnet50(weights=torchvision.models.ResNet50_Weights.IMAGENET1K_V2)
     model.fc = torch.nn.Linear(model.fc.in_features, len(LABELS))
@@ -139,11 +151,14 @@ def main():
         ax.set_title(metric)
         ax.set_xlabel('epoch')
         ax.legend()
-    axes[1].axhline(0.865, color='red', ls=':', lw=1, label='brightness baseline (dev)')
-    axes[2].axhline(0.843, color='red', ls=':', lw=1, label='brightness baseline (dev)')
+    # brightness-only random forest on the same input (P1 baseline_results.md, results/crop/shortcut_check.md)
+    base_acc, base_f1 = {'full': (0.865, 0.843), 'crop': (0.721, 0.690)}[args.input]
+    axes[1].axhline(base_acc, color='red', ls=':', lw=1, label='brightness baseline (dev)')
+    axes[2].axhline(base_f1, color='red', ls=':', lw=1, label='brightness baseline (dev)')
     axes[1].legend()
     axes[2].legend()
-    fig.suptitle('ResNet-50 full-slice (dashed line = unfreeze backbone)')
+    title = {'full': 'full slice', 'crop': 'oracle crop'}[args.input]
+    fig.suptitle(f'ResNet-50 {title} (dashed line = unfreeze backbone)')
     fig.tight_layout()
     fig.savefig(os.path.join(args.out, 'curves.png'), dpi=120)
 
