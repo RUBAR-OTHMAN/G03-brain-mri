@@ -1,7 +1,7 @@
 # G03 Brain MRI Triage: Classification (P3)
 
-Owner: Mihir Belose (P3). Checkpoints: "Full-slice baseline running" (Nov 12) and "Segmented
-crop pipeline ready" (Nov 15).
+Owner: Mihir Belose (P3). Checkpoints: "Full-slice baseline running" (Nov 12), "Segmented
+crop pipeline ready" (Nov 15) and "Fine-tuned classifier complete" (Nov 18).
 
 ResNet-50 fine-tuned on full MRI slices, and the same setup fine-tuned on tumor crops. The two
 differ only in the input, so the comparison isolates the effect of cropping.
@@ -15,6 +15,7 @@ Needs P1's `integration_project` folder (images + `splits.csv` + `brain_mri_data
 python train_classifier.py --data-root path/to/integration_project                # full slice
 python crop_shortcut_check.py --data-root path/to/integration_project             # crop leak check
 python train_classifier.py --data-root path/to/integration_project --input crop   # oracle crops
+python compare_inputs.py                                                          # full vs. crop table
 # colab: --data-root /content/drive/MyDrive/integration_project
 ```
 
@@ -110,8 +111,72 @@ two sources; cropping can't remove that.
 
 Files in `results/crop/`: `shortcut_check.md`, `crop_preview.png`.
 
+## Crop classifier (Nov 18)
+
+Trained with `--input crop`: the same setup and seed as the full-slice run, only the input
+changes. Rerunning it gives the same history and confusion matrix, epoch for epoch.
+
+### Results (dev, best epoch = 7)
+
+| Class | Precision | Recall | F1 | n |
+|---|---:|---:|---:|---:|
+| glioma | 0.995 | 0.956 | 0.975 | 225 |
+| meningioma | 0.982 | 0.982 | 0.982 | 113 |
+| pituitary | 0.948 | 0.980 | 0.963 | 148 |
+| notumor | 0.984 | 1.000 | 0.992 | 245 |
+
+Confusion (rows true, cols predicted):
+
+| | glioma | meningioma | pituitary | notumor |
+|---:|---:|---:|---:|---:|
+| glioma | 215 | 1 | 6 | 3 |
+| meningioma | 0 | 111 | 2 | 0 |
+| pituitary | 1 | 1 | 145 | 1 |
+| notumor | 0 | 0 | 0 | 245 |
+
+![crop training curves](results/crop/curves.png)
+
+### Full slice vs. crop (draft, dev only)
+
+From `compare_inputs.py` (`results/comparison.md` also has precision, recall and both confusion
+matrices), except the two brightness-only rows, which come from `results/crop/shortcut_check.md`.
+That check computes the brightness statistics on the exact model input, which gives 0.845 on
+full slices. P1's 0.843 in the full-slice results above uses the same statistics on a plain
+224x224 resize, without the loader's pad to square. Crops come from
+ground-truth masks, so the crop column is likely optimistic.
+
+| | Full slice | Oracle crop |
+|---|---:|---:|
+| Dev accuracy | 0.971 | 0.979 |
+| Dev macro-F1 | 0.966 | 0.978 |
+| Dev errors (of 731) | 21 | 15 |
+| Brightness-only macro-F1 on the same input | 0.845 | 0.690 |
+| Margin over brightness-only | +0.121 | +0.288 |
+| Best epoch | 12 | 7 |
+
+| Class F1 | Full slice | Oracle crop | Change |
+|---|---:|---:|---:|
+| glioma | 0.961 | 0.975 | +0.014 |
+| meningioma | 0.924 | 0.982 | +0.059 |
+| pituitary | 0.987 | 0.963 | -0.023 |
+| notumor | 0.994 | 0.992 | -0.002 |
+
+- Glioma/meningioma mix-ups drop from 17 to 1 (13 + 4 on full slices, 1 + 0 on crops). All
+  other errors rise from 4 to 14, so the net gain is 6 images.
+- Crops miss 4 tumors (3 gliomas and 1 pituitary called no-tumor) where the full slice missed
+  none, while removing the full slice's 3 no-tumor images called pituitary. Missed tumors matter
+  most for triage, so this is the crop model's main weakness.
+- The overall difference is 6 dev images, and dev has only ~10-14 patients per tumor class, so
+  it isn't conclusive.
+- The brightness-only bar is much lower on crops (0.690 vs. 0.845) while the classifier stays
+  about the same, so the crop model's margin over brightness alone is more than twice as large.
+- Dev macro-F1 peaks at epoch 7 and stays between 0.966 and 0.976 after that; train accuracy
+  reaches 99.8%.
+
+Files in `results/crop/`: `history.csv`, `curves.png`, `dev_report.txt`, `dev_per_class_f1.csv`,
+`dev_confusion.csv`, `train.log` (`best.pt` not in git).
+
 ## Next
 
-- Nov 18: train on crops (`--input crop`), log per-class dev F1 and curves, draft the full vs.
-  crop comparison table. Rerun with P2's predicted masks once they exist.
+- Rerun the crop classifier with P2's predicted masks once they exist, for a non-oracle number.
 - Nov 28: one-time test-set comparison, crops from predicted masks only.
