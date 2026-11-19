@@ -1,6 +1,6 @@
 """P2 tumor cropping.
 
-Takes full-slice 224x224 images and segmentation masks (ground truth or U-Net predicted)
+Takes full-slice 224x224 images and segmentation masks (ground truth or predicted)
 and generates standardized 224x224 cropped tumor patches for P3's classifier.
 
 Key design specifications addressed:
@@ -9,8 +9,10 @@ Key design specifications addressed:
 2. Pituitary size protection: Pituitary tumors are median 0.7% of slice area.
    Proportional padding (pad_frac=0.20) and a minimum bounding box size (min_size=48 px)
    ensure small lesions retain adequate brain tissue context and avoid pixelation.
-3. No-tumor handling: Kaggle no-tumor slices have no mask. Under 'full_slice' mode,
-   the full slice is returned so P3's classifier cannot exploit an empty-crop shortcut.
+3. No-tumor handling: Kaggle no-tumor slices have no mask. Under 'decoy' mode (default),
+   a random bounding box matching train tumor box dimensions is sampled inside the
+   brain parenchyma so the classifier cannot exploit full-slice zoom shortcuts.
+   'full_slice' and 'center_crop' remain available for baseline ablation.
 4. Aspect ratio preservation: The bounding box is made square before cropping,
    preventing anisotropic anatomical distortion when resizing back to 224x224.
 5. P3 Drop-in compatibility: Provides `CroppedBrainMRIDataset` and `make_cropped_loader`,
@@ -112,7 +114,59 @@ def compute_tumor_bounding_box(mask, pad_frac=0.20, min_size=48):
     return y1, y2, x1, x2
 
 
-def crop_tumor_image(image, mask=None, pad_frac=0.20, min_size=48, notumor_mode='full_slice', target_size=IMG_SIZE):
+def generate_decoy_bounding_box(image, side_range=(48, 80), seed=None):
+    """Generate a realistic square crop box located inside the brain parenchyma for no-tumor images.
+
+    Prevents the classifier from exploiting zoom level / field-of-view differences
+    between tumor crops and full no-tumor slices.
+
+    Args:
+        image: Tensor [3, H, W] (ImageNet-normalized or denormalized).
+        side_range: tuple (min_side, max_side) matching typical tumor bounding box sizes.
+        seed: optional int seed for reproducibility on dev/test splits.
+
+    Returns:
+        tuple (y1, y2, x1, x2)
+    """
+    gray = denormalize(image) if image.dim() == 3 and image.shape[0] == 3 else image.squeeze()
+    h, w = gray.shape[-2:]
+
+    # Brain parenchyma mask: non-background pixels (intensity > 0.08)
+    brain_pixels = (gray > 0.08).nonzero(as_tuple=False)
+    if len(brain_pixels) > 0:
+        y_min = brain_pixels[:, 0].min().item()
+        y_max = brain_pixels[:, 0].max().item()
+        x_min = brain_pixels[:, 1].min().item()
+        x_max = brain_pixels[:, 1].max().item()
+    else:
+        # Fallback to center 60% if background detection is ambiguous
+        y_min, y_max = int(h * 0.2), int(h * 0.8)
+        x_min, x_max = int(w * 0.2), int(w * 0.8)
+
+    rng = np.random.RandomState(seed) if seed is not None else np.random
+
+    # Sample box side length matching typical tumor box sizes
+    min_side, max_side = side_range
+    side = int(rng.randint(min_side, max_side + 1))
+
+    # Constrain side length to fit within detected brain bounds
+    avail_h = max(1, y_max - y_min + 1)
+    avail_w = max(1, x_max - x_min + 1)
+    side = min(side, min(avail_h, avail_w))
+    side = max(side, 32)
+
+    # Sample top-left corner within brain area
+    max_y = max(y_min, y_max - side)
+    max_x = max(x_min, x_max - side)
+    y1 = int(rng.randint(y_min, max_y + 1))
+    x1 = int(rng.randint(x_min, max_x + 1))
+    y2 = y1 + side
+    x2 = x1 + side
+
+    return y1, y2, x1, x2
+
+
+def crop_tumor_image(image, mask=None, pad_frac=0.20, min_size=48, notumor_mode='decoy', target_size=IMG_SIZE, decoy_seed=None):
     """Crop tumor patch from a single 3-channel image tensor [3, H, W] and resize to target_size.
 
     Args:
@@ -121,8 +175,9 @@ def crop_tumor_image(image, mask=None, pad_frac=0.20, min_size=48, notumor_mode=
               notumor_mode is applied.
         pad_frac: Proportional padding fraction around tumor.
         min_size: Minimum crop size in pixels before resize.
-        notumor_mode: Strategy for slices without mask ('full_slice' or 'center_crop').
+        notumor_mode: Strategy for slices without mask ('decoy', 'full_slice', or 'center_crop').
         target_size: Output spatial resolution (default 224).
+        decoy_seed: Optional seed for reproducible decoy box generation.
 
     Returns:
         cropped_image: Tensor [3, target_size, target_size]
@@ -134,7 +189,11 @@ def crop_tumor_image(image, mask=None, pad_frac=0.20, min_size=48, notumor_mode=
 
     if box is None:
         # No tumor present in mask (e.g. notumor class)
-        if notumor_mode == 'full_slice':
+        if notumor_mode == 'decoy':
+            box = generate_decoy_bounding_box(image, side_range=(48, 80), seed=decoy_seed)
+            y1, y2, x1, x2 = box
+            crop = image[:, y1:y2, x1:x2]
+        elif notumor_mode == 'full_slice':
             if image.shape[-2:] == (target_size, target_size):
                 return image.clone(), None
             crop = image
@@ -172,9 +231,10 @@ class CroppedBrainMRIDataset(Dataset):
         hflip=False,
         pad_frac=0.20,
         min_size=48,
-        notumor_mode='full_slice',
+        notumor_mode='decoy',
         target_size=IMG_SIZE,
     ):
+        self.split = split
         self.base_ds = BrainMRIDataset(split, root=root, keep_aspect=keep_aspect, hflip=hflip)
         self.pad_frac = pad_frac
         self.min_size = min_size
@@ -190,6 +250,9 @@ class CroppedBrainMRIDataset(Dataset):
         full_image = item['image']
         mask = item['mask']
 
+        # For dev/test, use index i as seed for deterministic decoy crops
+        decoy_seed = i if self.split != 'train' else None
+
         cropped_img, box = crop_tumor_image(
             full_image,
             mask=mask if item['has_mask'] else None,
@@ -197,6 +260,7 @@ class CroppedBrainMRIDataset(Dataset):
             min_size=self.min_size,
             notumor_mode=self.notumor_mode,
             target_size=self.target_size,
+            decoy_seed=decoy_seed,
         )
 
         return {
@@ -218,7 +282,7 @@ def make_cropped_loader(
     num_workers=0,
     pad_frac=0.20,
     min_size=48,
-    notumor_mode='full_slice',
+    notumor_mode='decoy',
     **dataset_kwargs,
 ):
     """Factory creating a DataLoader of cropped tumor images for P3's classifier.
