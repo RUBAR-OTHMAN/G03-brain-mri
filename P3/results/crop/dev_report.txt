@@ -1,0 +1,19 @@
+best epoch 7 (by dev macro-F1)
+
+              precision    recall  f1-score   support
+
+      glioma      0.995     0.956     0.975       225
+  meningioma      0.982     0.982     0.982       113
+   pituitary      0.948     0.980     0.963       148
+     notumor      0.984     1.000     0.992       245
+
+    accuracy                          0.979       731
+   macro avg      0.977     0.979     0.978       731
+weighted avg      0.980     0.979     0.979       731
+
+confusion (rows true, cols pred)
+                 pred_glioma  pred_meningioma  pred_pituitary  pred_notumor
+true_glioma              215                1               6             3
+true_meningioma            0              111               2             0
+true_pituitary             1                1             145             1
+true_notumor               0                0               0           245
