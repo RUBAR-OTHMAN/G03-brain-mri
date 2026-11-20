@@ -6,10 +6,15 @@ Pipeline for one slice:
           -> Grad-CAM on the crop -> pasted back to the full slice
           -> IoU(heatmap, mask) -> triage tier
 
-Triage rule (proposal):
-    High Priority : class is glioma or meningioma, confidence > 0.80 and IoU > 0.50
-    Needs Review  : confidence < 0.60 or IoU < 0.30
+Triage rule:
+    High Priority : class is glioma or meningioma, confidence > 0.80 and IoU > HI_IOU
+    Needs Review  : confidence < 0.60 or IoU < LO_IOU
     Routine       : everything else
+The proposal used HI_IOU = 0.50 and LO_IOU = 0.30. On dev, Grad-CAM-mask IoU is low even for
+correct predictions (median ~0.15), so those values send over half of all cases to review.
+Tuned on dev only (see threshold_grid): HI_IOU = 0.20, LO_IOU = 0.02.
+  - LO_IOU: error catch stays flat from 0.02 to 0.08, so 0.02 gives it with the fewest reviews.
+  - HI_IOU: the lowest value that still puts no wrong prediction in High Priority.
 Added rule: when the prediction is 'notumor' there is no tumor region, so IoU is undefined
 and only the confidence test is used.
 
@@ -28,6 +33,8 @@ import torchvision
 
 HIGH_PRIORITY_CLASSES = ('glioma', 'meningioma')
 TIERS = ['High Priority', 'Needs Review', 'Routine']
+HI_CONF, LO_CONF = 0.80, 0.60
+HI_IOU, LO_IOU = 0.20, 0.02          # tuned on dev; proposal values were 0.50 / 0.30
 
 
 def setup_paths(data_root, repo_root):
@@ -48,7 +55,7 @@ def pick_device():
 # ----------------------------------------------------------------------------------------
 # Triage rule and IoU (pure functions, easy to unit-test)
 # ----------------------------------------------------------------------------------------
-def triage(pred_label, confidence, iou, hi_conf=0.80, hi_iou=0.50, lo_conf=0.60, lo_iou=0.30):
+def triage(pred_label, confidence, iou, hi_conf=HI_CONF, hi_iou=HI_IOU, lo_conf=LO_CONF, lo_iou=LO_IOU):
     """Return one of TIERS. iou may be NaN (no tumor region to compare with)."""
     if pred_label == 'notumor' or iou is None or np.isnan(iou):
         return 'Needs Review' if confidence < lo_conf else 'Routine'
@@ -225,6 +232,34 @@ def summarize(df, labels=('glioma', 'meningioma', 'pituitary', 'notumor')):
         'confident errors (conf > 0.8)': int(((~correct) & (df.confidence > 0.8)).sum()),
     }
     return tiers, by_class, iou, key
+
+
+def threshold_grid(df, lo_values=(0.0, 0.02, 0.03, 0.05, 0.08, 0.10, 0.30),
+                   hi_values=(0.10, 0.15, 0.20, 0.30, 0.50)):
+    """Tier outcomes for each (LO_IOU, HI_IOU) pair, from a run_split() DataFrame. Use on dev only."""
+    ok = df.true == df.pred
+    urgent = df.true.isin(HIGH_PRIORITY_CLASSES)
+    rows = []
+    for lo in lo_values:
+        for hi in hi_values:
+            if hi <= lo:
+                continue
+            t = np.array([triage(r.pred, r.confidence, r.iou, hi_iou=hi, lo_iou=lo) for r in df.itertuples()])
+            rows.append({
+                'lo_iou': lo, 'hi_iou': hi,
+                'sent to review': (t == 'Needs Review').mean(),
+                'errors caught': (t[~ok.values] == 'Needs Review').mean() if (~ok).any() else np.nan,
+                'urgent -> High Priority': (t[urgent.values] == 'High Priority').mean(),
+                'wrong in High Priority': int(((t == 'High Priority') & ~ok.values).sum()),
+            })
+    return pd.DataFrame(rows).round(3)
+
+
+def retier(df, **thresholds):
+    """Recompute tiers on a saved results DataFrame with new thresholds (no model run needed)."""
+    out = df.copy()
+    out['tier'] = [triage(r.pred, r.confidence, r.iou, **thresholds) for r in out.itertuples()]
+    return out
 
 
 def confusion(df, labels=('glioma', 'meningioma', 'pituitary', 'notumor')):
