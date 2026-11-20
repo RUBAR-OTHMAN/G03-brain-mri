@@ -221,6 +221,7 @@ class CroppedBrainMRIDataset(Dataset):
     """PyTorch Dataset returning cropped tumor patches aligned with P1's BrainMRIDataset.
 
     Drop-in replacement for brain_mri_data.BrainMRIDataset.
+    Supports both ground-truth masks (for training) and predicted U-Net masks (for non-oracle evaluation).
     """
 
     def __init__(
@@ -233,6 +234,8 @@ class CroppedBrainMRIDataset(Dataset):
         min_size=48,
         notumor_mode='decoy',
         target_size=IMG_SIZE,
+        masks='gt',                    # 'gt' (ground-truth) or 'pred' (U-Net predicted)
+        predicted_masks_path=None,     # optional path to .npz file (e.g. 'P2/dev_predicted_masks.npz')
     ):
         self.split = split
         self.base_ds = BrainMRIDataset(split, root=root, keep_aspect=keep_aspect, hflip=hflip)
@@ -241,6 +244,24 @@ class CroppedBrainMRIDataset(Dataset):
         self.notumor_mode = notumor_mode
         self.target_size = target_size
         self.root = root
+        self.masks = masks
+        self.predicted_masks = None
+
+        if masks == 'pred':
+            if predicted_masks_path is None:
+                candidates = [
+                    os.path.join(root, 'P2', f"{split}_predicted_masks.npz"),
+                    os.path.join(root, f"{split}_predicted_masks.npz"),
+                    os.path.join(PROJECT_ROOT, 'P2', f"{split}_predicted_masks.npz"),
+                ]
+                for c in candidates:
+                    if os.path.exists(c):
+                        predicted_masks_path = c
+                        break
+            if predicted_masks_path and os.path.exists(predicted_masks_path):
+                self.predicted_masks = np.load(predicted_masks_path)
+            else:
+                print(f"Warning: No predicted masks found for {split} at {predicted_masks_path}. Decoy crops will be used.")
 
     def __len__(self):
         return len(self.base_ds)
@@ -248,14 +269,25 @@ class CroppedBrainMRIDataset(Dataset):
     def __getitem__(self, i):
         item = self.base_ds[i]
         full_image = item['image']
-        mask = item['mask']
+        gt_mask = item['mask']
+        path = item['path']
+
+        # Determine mask for cropping (P1 leak-prevention: when masks='pred', zero dependency on item['has_mask'])
+        if self.masks == 'pred':
+            if self.predicted_masks is not None and path in self.predicted_masks:
+                pred_arr = self.predicted_masks[path]  # [224, 224] uint8
+                mask_for_crop = torch.from_numpy(pred_arr).float().unsqueeze(0)
+            else:
+                mask_for_crop = None
+        else:
+            mask_for_crop = gt_mask if item['has_mask'] else None
 
         # For dev/test, use index i as seed for deterministic decoy crops
         decoy_seed = i if self.split != 'train' else None
 
         cropped_img, box = crop_tumor_image(
             full_image,
-            mask=mask if item['has_mask'] else None,
+            mask=mask_for_crop,
             pad_frac=self.pad_frac,
             min_size=self.min_size,
             notumor_mode=self.notumor_mode,
@@ -266,10 +298,10 @@ class CroppedBrainMRIDataset(Dataset):
         return {
             'image': cropped_img,               # [3, 224, 224] cropped & normalized
             'full_image': full_image,           # [3, 224, 224] original full slice
-            'mask': mask,                       # [1, 224, 224] original mask
+            'mask': gt_mask,                    # [1, 224, 224] original mask
             'has_mask': item['has_mask'],
             'label': item['label'],
-            'path': item['path'],
+            'path': path,
             'crop_box': torch.tensor(box if box is not None else [-1, -1, -1, -1], dtype=torch.int32),
         }
 
@@ -283,13 +315,18 @@ def make_cropped_loader(
     pad_frac=0.20,
     min_size=48,
     notumor_mode='decoy',
+    masks='gt',
+    predicted_masks_path=None,
     **dataset_kwargs,
 ):
     """Factory creating a DataLoader of cropped tumor images for P3's classifier.
 
     Usage for P3:
-        from crop_tumor import make_cropped_loader
+        # Standard training on ground-truth crops:
         train_loader = make_cropped_loader('train', batch_size=32)
+
+        # Realistic non-oracle dev evaluation on predicted U-Net crops:
+        dev_loader = make_cropped_loader('dev', batch_size=32, masks='pred')
     """
     dataset = CroppedBrainMRIDataset(
         split,
@@ -297,6 +334,8 @@ def make_cropped_loader(
         pad_frac=pad_frac,
         min_size=min_size,
         notumor_mode=notumor_mode,
+        masks=masks,
+        predicted_masks_path=predicted_masks_path,
         **dataset_kwargs,
     )
     if shuffle is None:

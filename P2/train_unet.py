@@ -196,14 +196,32 @@ def train(args):
     optimizer = AdamW(model.parameters(), lr=args.lr, weight_decay=1e-4)
     scheduler = CosineAnnealingLR(optimizer, T_max=args.epochs, eta_min=1e-6)
 
-    best_dev_dice = -1.0
+    best_tumor_dice = -1.0
     history = []
+    start_epoch = 1
+
+    # Resume from checkpoint if requested
+    if args.resume and os.path.exists(args.save_path):
+        print(f"--> Resuming from checkpoint: {args.save_path}")
+        ckpt = torch.load(args.save_path, map_location=device)
+        model.load_state_dict(ckpt['model_state_dict'])
+        start_epoch = ckpt.get('epoch', 0) + 1
+        if os.path.exists("train_unet_history.csv"):
+            old_df = pd.read_csv("train_unet_history.csv")
+            history = old_df.to_dict('records')
+            print(f"    Loaded {len(history)} previous epochs from train_unet_history.csv")
+            # Calculate past best tumor dice
+            for h in history:
+                td = np.mean([h.get(f'dice_{k}', 0) for k in ['glioma', 'meningioma', 'pituitary']])
+                if td > best_tumor_dice:
+                    best_tumor_dice = td
 
     print(f"\n{'='*70}")
-    print(f"Starting training for {args.epochs} epochs (Batch size: {args.batch_size}, LR: {args.lr})")
+    print(f"Starting training: Epochs {start_epoch} to {args.epochs} (Batch size: {args.batch_size}, LR: {args.lr})")
+    print(f"Model Selection Metric: Tumor-Only Mean Dice (ignoring no-tumor 1.0 points)")
     print(f"{'='*70}")
 
-    for epoch in range(1, args.epochs + 1):
+    for epoch in range(start_epoch, args.epochs + 1):
         model.train()
         start_time = time.time()
         running_loss = 0.0
@@ -221,7 +239,7 @@ def train(args):
 
             running_loss += loss.item()
 
-            if step % 50 == 0 or step == n_batches:
+            if step % 25 == 0 or step == n_batches:
                 print(f"  Epoch [{epoch:02d}/{args.epochs:02d}] Step [{step:03d}/{n_batches:03d}] - Loss: {running_loss / step:.4f}", end='\r')
 
         scheduler.step()
@@ -231,51 +249,60 @@ def train(args):
         # Validate on dev set
         dev_dice, class_dices = evaluate(model, dev_loader, device)
 
-        is_best = dev_dice > best_dev_dice
+        # Selection based on tumor-only Dice as requested by P1
+        tumor_dice = float(np.mean([class_dices.get(k, 0) for k in ['glioma', 'meningioma', 'pituitary']]))
+        is_best = tumor_dice > best_tumor_dice
         if is_best:
-            best_dev_dice = dev_dice
+            best_tumor_dice = tumor_dice
             torch.save({
                 'epoch': epoch,
                 'model_state_dict': model.state_dict(),
                 'optimizer_state_dict': optimizer.state_dict(),
                 'dev_dice': dev_dice,
+                'tumor_dice': tumor_dice,
                 'class_dices': class_dices,
             }, args.save_path)
             saved_flag = " [BEST SAVED]"
         else:
             saved_flag = ""
 
-        history.append({
+        rec = {
             'epoch': epoch,
             'train_loss': train_loss,
             'dev_dice': dev_dice,
+            'tumor_dice': tumor_dice,
             **{f"dice_{k}": v for k, v in class_dices.items()}
-        })
+        }
+        history.append(rec)
 
-        print(f"\nEpoch {epoch:02d}/{args.epochs:02d} ({elapsed:.1f}s) - Train Loss: {train_loss:.4f} | Dev Mean Dice: {dev_dice:.4f}{saved_flag}")
+        # Save progress after each epoch
+        df_hist = pd.DataFrame(history)
+        df_hist.to_csv("train_unet_history.csv", index=False)
+        if os.path.exists("P2"):
+            df_hist.to_csv("P2/train_unet_history.csv", index=False)
+
+        print(f"\nEpoch {epoch:02d}/{args.epochs:02d} ({elapsed:.1f}s) - Loss: {train_loss:.4f} | Tumor Dice: {tumor_dice:.4f} | Combined: {dev_dice:.4f}{saved_flag}")
         print(f"         Per-class: Glioma: {class_dices.get('glioma', 0):.3f} | "
               f"Meningioma: {class_dices.get('meningioma', 0):.3f} | "
               f"Pituitary: {class_dices.get('pituitary', 0):.3f} | "
               f"NoTumor: {class_dices.get('notumor', 0):.3f}")
 
-    # Save training history
-    df_hist = pd.DataFrame(history)
-    df_hist.to_csv("train_unet_history.csv", index=False)
     print(f"\n{'='*70}")
-    print(f"Training complete! Best Dev Dice: {best_dev_dice:.4f}")
+    print(f"Training complete! Best Tumor Dice: {best_tumor_dice:.4f}")
     print(f"Saved checkpoint to: {args.save_path}")
-    print(f"Saved history to:    train_unet_history.csv")
+    print(f"Saved history to:    train_unet_history.csv and P2/train_unet_history.csv")
     print(f"{'='*70}\n")
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Train U-Net for Brain MRI Tumor Segmentation")
-    parser.add_argument('--epochs', type=int, default=10, help="Number of training epochs (default: 10)")
-    parser.add_argument('--batch-size', type=int, default=16, help="Batch size (default: 16)")
-    parser.add_argument('--lr', type=float, default=5e-4, help="Learning rate (default: 5e-4)")
+    parser.add_argument('--epochs', type=int, default=5, help="Target total epochs (default: 5)")
+    parser.add_argument('--batch-size', type=int, default=32, help="Batch size (default: 32)")
+    parser.add_argument('--lr', type=float, default=3e-4, help="Learning rate (default: 3e-4)")
     parser.add_argument('--init-features', type=int, default=32, help="U-Net base features (default: 32)")
-    parser.add_argument('--num-workers', type=int, default=2, help="DataLoader worker processes (default: 2)")
-    parser.add_argument('--pretrained-buda', action='store_true', default=True, help="Initialize weights from Buda U-Net")
+    parser.add_argument('--num-workers', type=int, default=0, help="DataLoader worker processes (default: 0)")
+    parser.add_argument('--pretrained-buda', action='store_true', default=False, help="Initialize weights from Buda U-Net")
+    parser.add_argument('--resume', action='store_true', default=True, help="Resume from existing checkpoint (default: True)")
     parser.add_argument('--cpu', action='store_true', help="Force CPU training instead of MPS/CUDA")
     parser.add_argument('--save-path', type=str, default="best_unet.pth", help="Checkpoint save path")
     args = parser.parse_args()
