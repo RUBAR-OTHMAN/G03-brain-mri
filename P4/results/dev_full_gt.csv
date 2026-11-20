@@ -1,0 +1,732 @@
+path,true,pred,confidence,iou,iou_vs_gt,tier
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/151.jpg,meningioma,meningioma,0.9999538660049438,0.13658991910392035,0.13658991910392035,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/152.jpg,meningioma,meningioma,0.9990481734275818,0.18134171907756813,0.18134171907756813,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/153.jpg,meningioma,meningioma,0.9995031356811523,0.13439372982941447,0.13439372982941447,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/163.jpg,meningioma,meningioma,0.9976558685302734,0.016328752211185196,0.016328752211185196,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/169.jpg,meningioma,meningioma,0.999671459197998,0.22954866008462624,0.22954866008462624,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/170.jpg,meningioma,meningioma,0.9998465776443481,0.22406894429055094,0.22406894429055094,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/171.jpg,meningioma,meningioma,0.9997957348823547,0.42496765847347995,0.42496765847347995,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/172.jpg,meningioma,meningioma,0.9997666478157043,0.29347826086956524,0.29347826086956524,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/173.jpg,meningioma,meningioma,0.9999688863754272,0.26441691584792826,0.26441691584792826,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/174.jpg,meningioma,meningioma,0.9994687438011169,0.13985701519213584,0.13985701519213584,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/204.jpg,meningioma,meningioma,0.999734103679657,0.44883720930232557,0.44883720930232557,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/205.jpg,meningioma,meningioma,0.9994576573371887,0.5139584824624195,0.5139584824624195,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/206.jpg,meningioma,meningioma,0.9992121458053589,0.6514399205561072,0.6514399205561072,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/207.jpg,meningioma,meningioma,0.9983454942703247,0.5364667747163695,0.5364667747163695,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/208.jpg,meningioma,meningioma,0.9999665021896362,0.4169925346605048,0.4169925346605048,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/269.jpg,meningioma,meningioma,0.999873161315918,0.04314720812182741,0.04314720812182741,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/270.jpg,meningioma,meningioma,0.9999711513519287,0.13108162444712504,0.13108162444712504,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/271.jpg,meningioma,meningioma,0.9997773766517639,0.15209380234505862,0.15209380234505862,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/272.jpg,meningioma,meningioma,0.9999629259109497,0.1613008130081301,0.1613008130081301,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/273.jpg,meningioma,meningioma,0.9999005794525146,0.17047655947307244,0.17047655947307244,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/274.jpg,meningioma,meningioma,0.9991282820701599,0.16954851104707014,0.16954851104707014,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/304.jpg,meningioma,meningioma,0.9999310970306396,0.39226006191950463,0.39226006191950463,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/305.jpg,meningioma,meningioma,0.9994619488716125,0.43865704424223406,0.43865704424223406,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/306.jpg,meningioma,meningioma,0.999717652797699,0.4537469118858084,0.4537469118858084,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/307.jpg,meningioma,meningioma,0.999871015548706,0.5589473684210526,0.5589473684210526,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/308.jpg,meningioma,meningioma,0.9995841383934021,0.5856858846918489,0.5856858846918489,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/309.jpg,meningioma,meningioma,0.9991896748542786,0.1637190500252653,0.1637190500252653,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/310.jpg,meningioma,meningioma,0.6965786218643188,0.09084836339345358,0.09084836339345358,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/311.jpg,meningioma,meningioma,0.9999655485153198,0.46048109965635736,0.46048109965635736,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/312.jpg,meningioma,meningioma,0.9999294281005859,0.5082720588235294,0.5082720588235294,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/313.jpg,meningioma,meningioma,0.9990922212600708,0.3814477676636324,0.3814477676636324,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/314.jpg,meningioma,meningioma,0.9997674822807312,0.3224390243902439,0.3224390243902439,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/379.jpg,meningioma,meningioma,0.9776096343994141,0.29005281690140844,0.29005281690140844,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/380.jpg,meningioma,meningioma,0.9956232905387878,0.25640045854031335,0.25640045854031335,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/381.jpg,meningioma,meningioma,0.9999552965164185,0.15690866510538642,0.15690866510538642,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/393.jpg,meningioma,glioma,0.5793097615242004,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/394.jpg,meningioma,meningioma,0.9975862503051758,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/399.jpg,meningioma,meningioma,0.9999197721481323,0.2358616101131071,0.2358616101131071,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/400.jpg,meningioma,meningioma,0.9999200105667114,0.3916256157635468,0.3916256157635468,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/401.jpg,meningioma,meningioma,0.9999313354492188,0.4416103257529195,0.4416103257529195,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/402.jpg,meningioma,meningioma,0.9991732239723206,0.5210798816568047,0.5210798816568047,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/403.jpg,meningioma,meningioma,0.9997887015342712,0.5387915623882732,0.5387915623882732,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/404.jpg,meningioma,glioma,0.6300695538520813,0.1052861511577108,0.1052861511577108,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/438.jpg,meningioma,meningioma,0.9998778104782104,0.14596365802800118,0.14596365802800118,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/439.jpg,meningioma,meningioma,0.9999655485153198,0.11291897168890336,0.11291897168890336,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/440.jpg,meningioma,meningioma,0.9995539784431458,0.10016835016835017,0.10016835016835017,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/441.jpg,meningioma,meningioma,0.99896240234375,0.08960468521229868,0.08960468521229868,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/45.jpg,meningioma,meningioma,0.9228846430778503,0.164692611393119,0.164692611393119,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/46.jpg,meningioma,meningioma,0.9987757802009583,0.1555845284658844,0.1555845284658844,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/47.jpg,meningioma,meningioma,0.9998983144760132,0.09734167318217357,0.09734167318217357,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/48.jpg,meningioma,meningioma,0.9995885491371155,0.08687258687258688,0.08687258687258688,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/485.jpg,meningioma,meningioma,0.9999656677246094,0.1978756884343037,0.1978756884343037,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/486.jpg,meningioma,meningioma,0.9999986886978149,0.2061962134251291,0.2061962134251291,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/487.jpg,meningioma,meningioma,0.9984914064407349,0.2555066079295154,0.2555066079295154,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/488.jpg,meningioma,meningioma,0.6026240587234497,0.17932797662527392,0.17932797662527392,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/505.jpg,meningioma,meningioma,0.9987820982933044,0.11394101876675604,0.11394101876675604,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/506.jpg,meningioma,meningioma,0.9998836517333984,0.25609389106229313,0.25609389106229313,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/507.jpg,meningioma,meningioma,0.9999922513961792,0.32,0.32,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/508.jpg,meningioma,meningioma,0.9999899864196777,0.31867088607594934,0.31867088607594934,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/509.jpg,meningioma,meningioma,0.999972939491272,0.08695652173913043,0.08695652173913043,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/540.jpg,meningioma,meningioma,0.9966493248939514,0.26388512598211866,0.26388512598211866,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/541.jpg,meningioma,meningioma,0.9999470710754395,0.4806219540496635,0.4806219540496635,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/542.jpg,meningioma,meningioma,0.9999876022338867,0.32229998108568186,0.32229998108568186,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/543.jpg,meningioma,meningioma,0.9998805522918701,0.3348968105065666,0.3348968105065666,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/544.jpg,meningioma,meningioma,0.9999828338623047,0.4748764415156507,0.4748764415156507,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/545.jpg,meningioma,meningioma,0.999871015548706,0.37054631828978624,0.37054631828978624,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/546.jpg,meningioma,meningioma,0.9999456405639648,0.36308393467527533,0.36308393467527533,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/547.jpg,meningioma,meningioma,0.9998927116394043,0.26519076778144135,0.26519076778144135,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/548.jpg,meningioma,meningioma,0.9998893737792969,0.09514467876410004,0.09514467876410004,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/549.jpg,meningioma,meningioma,0.9999934434890747,0.0673076923076923,0.0673076923076923,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/3/59.jpg,pituitary,pituitary,0.9999548196792603,0.0678749543851113,0.0678749543851113,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/615.jpg,meningioma,glioma,0.7879831790924072,0.08747090768037238,0.08747090768037238,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/616.jpg,meningioma,glioma,0.6866520047187805,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/617.jpg,meningioma,meningioma,0.9192920327186584,0.22489082969432314,0.22489082969432314,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/618.jpg,meningioma,meningioma,0.9523681402206421,0.2033898305084746,0.2033898305084746,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/635.jpg,meningioma,meningioma,0.9977748990058899,0.22476296709425544,0.22476296709425544,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/636.jpg,meningioma,meningioma,0.9997995495796204,0.35487028879099364,0.35487028879099364,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/637.jpg,meningioma,meningioma,0.9997316002845764,0.4408783783783784,0.4408783783783784,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/638.jpg,meningioma,meningioma,0.867626428604126,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/639.jpg,meningioma,meningioma,0.9824504256248474,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/648.jpg,meningioma,meningioma,0.9999971389770508,0.086244070720138,0.086244070720138,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/649.jpg,meningioma,meningioma,0.999913215637207,0.12552155771905424,0.12552155771905424,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/650.jpg,meningioma,meningioma,0.9999622106552124,0.16044218703316404,0.16044218703316404,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/651.jpg,meningioma,meningioma,0.9996843338012695,0.2343153300600109,0.2343153300600109,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/652.jpg,meningioma,meningioma,0.9999219179153442,0.22353961827646038,0.22353961827646038,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/653.jpg,meningioma,meningioma,0.999962329864502,0.3025499655410062,0.3025499655410062,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/654.jpg,meningioma,meningioma,0.9990873336791992,0.20938446014127143,0.20938446014127143,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/655.jpg,meningioma,meningioma,0.5507879853248596,0.058695652173913045,0.058695652173913045,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/656.jpg,meningioma,meningioma,0.999914288520813,0.20291448996425626,0.20291448996425626,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/657.jpg,meningioma,meningioma,0.9997488856315613,0.29225137278828556,0.29225137278828556,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/658.jpg,meningioma,meningioma,0.9999561309814453,0.24303232998885171,0.24303232998885171,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/697.jpg,meningioma,meningioma,0.9999120235443115,0.10925085130533485,0.10925085130533485,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/698.jpg,meningioma,meningioma,0.9999784231185913,0.13297442799461642,0.13297442799461642,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/699.jpg,meningioma,meningioma,0.9999206066131592,0.10553783705421861,0.10553783705421861,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/700.jpg,meningioma,meningioma,0.9999276399612427,0.08238231098430814,0.08238231098430814,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/701.jpg,meningioma,meningioma,0.9997443556785583,0.06247464503042596,0.06247464503042596,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/702.jpg,meningioma,meningioma,0.9999756813049316,0.06495327102803738,0.06495327102803738,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/703.jpg,meningioma,meningioma,0.9999431371688843,0.26459483009003776,0.26459483009003776,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/704.jpg,meningioma,meningioma,0.9999731779098511,0.2951720150332466,0.2951720150332466,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/705.jpg,meningioma,meningioma,0.9998277425765991,0.3716020821283979,0.3716020821283979,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/706.jpg,meningioma,meningioma,0.9999516010284424,0.35441527446300713,0.35441527446300713,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/707.jpg,meningioma,meningioma,0.995488703250885,0.28919742634608875,0.28919742634608875,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/708.jpg,meningioma,meningioma,0.9990081191062927,0.25992192582953805,0.25992192582953805,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/729.jpg,glioma,glioma,0.9984210729598999,0.12233912405187179,0.12233912405187179,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/730.jpg,glioma,glioma,0.9995242357254028,0.08537766300839252,0.08537766300839252,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/731.jpg,glioma,glioma,0.9980218410491943,0.2503094825451844,0.2503094825451844,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/732.jpg,glioma,glioma,0.9550834894180298,0.010135135135135136,0.010135135135135136,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/733.jpg,glioma,glioma,0.6135681867599487,0.2547545333923043,0.2547545333923043,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/734.jpg,glioma,meningioma,0.8919884562492371,0.11292665214233842,0.11292665214233842,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/735.jpg,glioma,meningioma,0.9968937635421753,0.025412960609911054,0.025412960609911054,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/736.jpg,glioma,glioma,0.6702094078063965,0.2921559417566933,0.2921559417566933,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/737.jpg,glioma,glioma,0.9551704525947571,0.38232528987778125,0.38232528987778125,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/738.jpg,glioma,glioma,0.8535393476486206,0.3452730475631239,0.3452730475631239,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/2/739.jpg,glioma,meningioma,0.9944531321525574,0.16669923783466875,0.16669923783466875,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/80.jpg,meningioma,meningioma,0.9996298551559448,0.5801941747572815,0.5801941747572815,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/81.jpg,meningioma,meningioma,0.99733966588974,0.577826725403818,0.577826725403818,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/82.jpg,meningioma,meningioma,0.9929631352424622,0.47612504294057023,0.47612504294057023,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/83.jpg,meningioma,meningioma,0.9986661672592163,0.49019607843137253,0.49019607843137253,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/84.jpg,meningioma,meningioma,0.9962698221206665,0.44234800838574423,0.44234800838574423,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/85.jpg,meningioma,meningioma,0.9996681213378906,0.555668016194332,0.555668016194332,High Priority
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/86.jpg,meningioma,meningioma,0.9999316930770874,0.40435967302452314,0.40435967302452314,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/87.jpg,meningioma,meningioma,0.9951123595237732,0.3203954595386305,0.3203954595386305,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/88.jpg,meningioma,meningioma,0.9837329983711243,0.3677658142664872,0.3677658142664872,Routine
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/89.jpg,meningioma,meningioma,0.9999648332595825,0.28092881614008375,0.28092881614008375,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1-766_jpeg/images/1/90.jpg,meningioma,meningioma,0.9999616146087646,0.2518397383483238,0.2518397383483238,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1557.jpg,pituitary,pituitary,0.9999905824661255,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1558.jpg,pituitary,pituitary,0.9998815059661865,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1559.jpg,pituitary,pituitary,0.9998964071273804,0.021860885275519423,0.021860885275519423,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1560.jpg,pituitary,pituitary,0.9999550580978394,0.04354098360655738,0.04354098360655738,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1561.jpg,pituitary,pituitary,0.9999716281890869,0.03163643858202803,0.03163643858202803,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1562.jpg,pituitary,pituitary,0.9999959468841553,0.027093596059113302,0.027093596059113302,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1573.jpg,pituitary,pituitary,0.9707393050193787,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1574.jpg,pituitary,pituitary,0.998948872089386,0.026897214217098942,0.026897214217098942,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1575.jpg,pituitary,pituitary,0.9997453093528748,0.0679235191870571,0.0679235191870571,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1576.jpg,pituitary,pituitary,0.9999672174453735,0.08287292817679558,0.08287292817679558,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1577.jpg,pituitary,pituitary,0.9999923706054688,0.03864518054312146,0.03864518054312146,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1578.jpg,pituitary,pituitary,0.9999819993972778,0.06621183312828542,0.06621183312828542,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1579.jpg,pituitary,pituitary,0.999996542930603,0.034396393387877776,0.034396393387877776,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1580.jpg,pituitary,pituitary,0.9993438124656677,0.05235492010092515,0.05235492010092515,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1651.jpg,pituitary,pituitary,0.9998899698257446,0.0007015902712815715,0.0007015902712815715,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1652.jpg,pituitary,pituitary,0.9998369216918945,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1653.jpg,pituitary,pituitary,0.9983854293823242,0.02103455677183945,0.02103455677183945,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1654.jpg,pituitary,pituitary,0.9999330043792725,0.009498157074000566,0.009498157074000566,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1655.jpg,pituitary,pituitary,0.9999455213546753,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1656.jpg,pituitary,pituitary,0.9998255372047424,0.016444499813130686,0.016444499813130686,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1657.jpg,pituitary,pituitary,0.999897837638855,0.013683010262257697,0.013683010262257697,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1658.jpg,pituitary,pituitary,0.999711811542511,0.011311172668513388,0.011311172668513388,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1672.jpg,pituitary,pituitary,0.9995173215866089,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1673.jpg,pituitary,pituitary,0.9999414682388306,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1674.jpg,pituitary,pituitary,0.9999284744262695,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1675.jpg,pituitary,pituitary,0.9998546838760376,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1676.jpg,pituitary,pituitary,0.9995657801628113,0.010500398290969657,0.010500398290969657,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1684.jpg,pituitary,pituitary,0.9967458248138428,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1685.jpg,pituitary,pituitary,0.9998817443847656,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1686.jpg,pituitary,pituitary,0.9990189075469971,0.00416579879191835,0.00416579879191835,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1687.jpg,pituitary,pituitary,0.994176983833313,0.06846075892354464,0.06846075892354464,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1688.jpg,pituitary,pituitary,0.9981383085250854,0.0012991833704528583,0.0012991833704528583,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1689.jpg,pituitary,pituitary,0.9998218417167664,0.03022508038585209,0.03022508038585209,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1690.jpg,pituitary,pituitary,0.9995641112327576,0.009921743991056456,0.009921743991056456,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1691.jpg,pituitary,pituitary,0.9983925223350525,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1704.jpg,pituitary,pituitary,0.9997329115867615,0.0031335149863760217,0.0031335149863760217,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1705.jpg,pituitary,pituitary,0.9999468326568604,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1706.jpg,pituitary,pituitary,0.9999915361404419,0.03164491934655297,0.03164491934655297,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1707.jpg,pituitary,pituitary,0.9999896287918091,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1708.jpg,pituitary,pituitary,0.9999319314956665,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1748.jpg,pituitary,pituitary,0.9942716360092163,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1749.jpg,pituitary,pituitary,0.9995198249816895,0.012734409071085914,0.012734409071085914,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1750.jpg,pituitary,pituitary,0.9996669292449951,0.014896684286400768,0.014896684286400768,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1751.jpg,pituitary,pituitary,0.9998307228088379,0.02152576399732322,0.02152576399732322,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1752.jpg,pituitary,pituitary,0.9993425011634827,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1753.jpg,pituitary,pituitary,0.9988855719566345,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1766.jpg,pituitary,pituitary,0.9997932314872742,0.003244295447172056,0.003244295447172056,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1767.jpg,pituitary,pituitary,0.9997677206993103,0.03030019639016179,0.03030019639016179,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1768.jpg,pituitary,pituitary,0.9999903440475464,0.04393417527745886,0.04393417527745886,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1769.jpg,pituitary,pituitary,0.9999740123748779,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1770.jpg,pituitary,pituitary,0.999947190284729,0.018554062699936022,0.018554062699936022,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1771.jpg,pituitary,pituitary,0.9893402457237244,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/3/1772.jpg,pituitary,pituitary,0.9848455190658569,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1841.jpg,glioma,glioma,0.9999817609786987,0.019530459421169804,0.019530459421169804,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1842.jpg,glioma,glioma,0.9993261098861694,0.11236468973928952,0.11236468973928952,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1843.jpg,glioma,glioma,0.9999988079071045,0.0008639308855291577,0.0008639308855291577,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1844.jpg,glioma,glioma,0.9999983310699463,0.02693286881950958,0.02693286881950958,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1845.jpg,glioma,glioma,0.9999834299087524,0.003866211113109153,0.003866211113109153,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1846.jpg,glioma,glioma,0.9999998807907104,0.038709057727403705,0.038709057727403705,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1847.jpg,glioma,glioma,0.9999852180480957,0.03700946506434117,0.03700946506434117,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1848.jpg,glioma,glioma,0.9986853003501892,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1899.jpg,glioma,glioma,0.8466522693634033,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1900.jpg,glioma,glioma,0.9937447905540466,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1901.jpg,glioma,glioma,0.9974898099899292,0.009756932557343376,0.009756932557343376,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1902.jpg,glioma,glioma,0.9999985694885254,0.1470229628124365,0.1470229628124365,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1903.jpg,glioma,glioma,0.9999929666519165,0.12974296205630356,0.12974296205630356,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1904.jpg,glioma,glioma,0.9999719858169556,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1905.jpg,glioma,glioma,0.9999823570251465,0.024825349301397206,0.024825349301397206,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1906.jpg,glioma,glioma,0.9999630451202393,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1907.jpg,glioma,glioma,0.9998636245727539,0.03416320885200553,0.03416320885200553,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/1908.jpg,glioma,glioma,0.9999128580093384,0.027323904984209803,0.027323904984209803,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2017.jpg,glioma,glioma,0.8972980380058289,0.14373440798311266,0.14373440798311266,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2018.jpg,glioma,glioma,0.9821569323539734,0.01126618463090634,0.01126618463090634,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2019.jpg,glioma,glioma,0.999600350856781,0.34446505875077305,0.34446505875077305,Routine
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2020.jpg,glioma,glioma,0.9188858270645142,0.17916260954235638,0.17916260954235638,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2021.jpg,glioma,glioma,0.9688667058944702,0.023867403314917126,0.023867403314917126,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2022.jpg,glioma,glioma,0.9981112480163574,0.09221083816812739,0.09221083816812739,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2023.jpg,glioma,glioma,0.8263422250747681,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2024.jpg,glioma,glioma,0.9940220713615417,0.031412930135557876,0.031412930135557876,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2025.jpg,glioma,glioma,0.9972713589668274,0.03504043126684636,0.03504043126684636,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2026.jpg,glioma,glioma,0.9917768239974976,0.012537917087967644,0.012537917087967644,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2027.jpg,glioma,glioma,0.9985401630401611,0.026655202063628546,0.026655202063628546,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2028.jpg,glioma,glioma,0.9973471164703369,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2029.jpg,glioma,glioma,0.9999512434005737,0.10788742182070883,0.10788742182070883,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2030.jpg,glioma,glioma,0.9999934434890747,0.12243808710503842,0.12243808710503842,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2031.jpg,glioma,glioma,0.9999027252197266,0.2641430948419301,0.2641430948419301,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2061.jpg,glioma,glioma,0.9999717473983765,0.07863074055244874,0.07863074055244874,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2062.jpg,glioma,glioma,1.0,0.05572396576319544,0.05572396576319544,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2063.jpg,glioma,glioma,0.9999998807907104,0.09733530717986677,0.09733530717986677,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2064.jpg,glioma,glioma,0.9999995231628418,0.07802600866955652,0.07802600866955652,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2097.jpg,glioma,glioma,0.9996390342712402,0.010610987506417936,0.010610987506417936,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2098.jpg,glioma,glioma,0.996664822101593,0.10353535353535354,0.10353535353535354,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2099.jpg,glioma,glioma,0.9999935626983643,0.005838271174625305,0.005838271174625305,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2141.jpg,glioma,glioma,0.9999401569366455,0.013302486986697512,0.013302486986697512,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2142.jpg,glioma,glioma,0.9998210072517395,0.018432104526364908,0.018432104526364908,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2143.jpg,glioma,glioma,0.9996380805969238,0.04105736782902137,0.04105736782902137,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2144.jpg,glioma,glioma,0.999955415725708,0.029926284519749147,0.029926284519749147,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2145.jpg,glioma,glioma,0.9999654293060303,0.01027300872502111,0.01027300872502111,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2206.jpg,glioma,glioma,0.9999067783355713,0.029762721163077765,0.029762721163077765,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2207.jpg,glioma,glioma,0.9999954700469971,0.05152552926525529,0.05152552926525529,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2208.jpg,glioma,glioma,1.0,0.20989186314483246,0.20989186314483246,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2209.jpg,glioma,glioma,0.9999998807907104,0.1277445109780439,0.1277445109780439,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2210.jpg,glioma,glioma,1.0,0.2465972778222578,0.2465972778222578,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2211.jpg,glioma,glioma,0.9999998807907104,0.15631146592618303,0.15631146592618303,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2212.jpg,glioma,glioma,0.9999990463256836,0.13490885968630775,0.13490885968630775,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2213.jpg,glioma,glioma,0.9999988079071045,0.1496953872932985,0.1496953872932985,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2214.jpg,glioma,glioma,0.9999977350234985,0.08844526705446853,0.08844526705446853,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2215.jpg,glioma,glioma,0.9999985694885254,0.040763107329124346,0.040763107329124346,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2237.jpg,glioma,glioma,0.9997382760047913,0.03997853501475718,0.03997853501475718,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2238.jpg,glioma,glioma,0.9999310970306396,0.19558481797056546,0.19558481797056546,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2239.jpg,glioma,glioma,0.9982938170433044,0.1280891054646711,0.1280891054646711,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2240.jpg,glioma,glioma,0.9999125003814697,0.07044738500315059,0.07044738500315059,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2261.jpg,glioma,glioma,0.9999972581863403,0.07511737089201878,0.07511737089201878,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2262.jpg,glioma,glioma,0.9999960660934448,0.09864325618515563,0.09864325618515563,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2263.jpg,glioma,glioma,0.9999881982803345,0.097538742023701,0.097538742023701,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2264.jpg,glioma,glioma,0.9999340772628784,0.2415623814941221,0.2415623814941221,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2265.jpg,glioma,glioma,0.999993085861206,0.08229988726042842,0.08229988726042842,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2266.jpg,glioma,glioma,0.9999809265136719,0.17086115391200138,0.17086115391200138,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2267.jpg,glioma,glioma,0.9999953508377075,0.18021458446990363,0.18021458446990363,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2268.jpg,glioma,glioma,0.999990701675415,0.17265738624558488,0.17265738624558488,Needs Review
+braintumormri_figshare/brainTumorDataPublic_1533-2298_jpeg/images/2/2269.jpg,glioma,glioma,0.9999765157699585,0.05844155844155844,0.05844155844155844,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2394.jpg,glioma,glioma,0.9999920129776001,0.10933295567200113,0.10933295567200113,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2395.jpg,glioma,glioma,0.9999971389770508,0.05238095238095238,0.05238095238095238,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2396.jpg,glioma,glioma,0.999996542930603,0.007450980392156863,0.007450980392156863,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2397.jpg,glioma,glioma,0.9999974966049194,0.03955883693373439,0.03955883693373439,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2398.jpg,glioma,glioma,0.9999984502792358,0.12184336087513092,0.12184336087513092,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2399.jpg,glioma,glioma,0.9999872446060181,0.16262031317339462,0.16262031317339462,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2400.jpg,glioma,glioma,0.9999992847442627,0.01688579530806909,0.01688579530806909,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2401.jpg,glioma,glioma,0.999963641166687,0.12402152641878669,0.12402152641878669,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2402.jpg,glioma,glioma,0.9999938011169434,0.04410674573758339,0.04410674573758339,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2403.jpg,glioma,glioma,0.9999271631240845,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2404.jpg,glioma,glioma,0.9974814057350159,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2405.jpg,glioma,glioma,0.9979026317596436,0.003278056305437717,0.003278056305437717,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2406.jpg,glioma,glioma,0.9999279975891113,0.03316849595947413,0.03316849595947413,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2407.jpg,glioma,glioma,0.9994156360626221,0.022710938622969672,0.022710938622969672,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2408.jpg,glioma,glioma,0.9997509121894836,0.023572219585508623,0.023572219585508623,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2409.jpg,glioma,glioma,0.9997043013572693,0.009672772175344721,0.009672772175344721,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2453.jpg,glioma,glioma,0.9999649524688721,0.29269988412514486,0.29269988412514486,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2454.jpg,glioma,glioma,0.9999933242797852,0.41025081788440565,0.41025081788440565,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2455.jpg,glioma,glioma,0.9999901056289673,0.37444406431748206,0.37444406431748206,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2456.jpg,glioma,glioma,0.9999953508377075,0.40493788331498665,0.40493788331498665,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2457.jpg,glioma,glioma,0.9999963045120239,0.4940413966130044,0.4940413966130044,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2458.jpg,glioma,glioma,0.9999991655349731,0.46707678286625653,0.46707678286625653,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2459.jpg,glioma,glioma,0.9999997615814209,0.43014009844755774,0.43014009844755774,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2460.jpg,glioma,glioma,0.9999982118606567,0.4274956217162872,0.4274956217162872,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2461.jpg,glioma,glioma,0.9999979734420776,0.15443037974683543,0.15443037974683543,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2462.jpg,glioma,glioma,0.9999996423721313,0.0643451930355791,0.0643451930355791,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2530.jpg,glioma,glioma,0.9999983310699463,0.059443438168944505,0.059443438168944505,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2531.jpg,glioma,glioma,0.9999988079071045,0.09161237785016287,0.09161237785016287,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2532.jpg,glioma,glioma,0.9998682737350464,0.0013095432967752496,0.0013095432967752496,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2533.jpg,glioma,glioma,0.9999828338623047,0.042221889504416826,0.042221889504416826,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2534.jpg,glioma,glioma,0.9999979734420776,0.017782000814442787,0.017782000814442787,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2535.jpg,glioma,glioma,0.9999829530715942,0.004256015714519562,0.004256015714519562,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2536.jpg,glioma,glioma,0.999995231628418,0.011384170581857608,0.011384170581857608,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2537.jpg,glioma,glioma,0.999968409538269,0.02393669634025717,0.02393669634025717,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2538.jpg,glioma,glioma,0.9998633861541748,0.009391675560298827,0.009391675560298827,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2539.jpg,glioma,glioma,0.9999978542327881,0.03257992262268377,0.03257992262268377,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2540.jpg,glioma,glioma,0.9993512034416199,0.014381099126861838,0.014381099126861838,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2541.jpg,glioma,glioma,0.9935265779495239,0.04826038159371493,0.04826038159371493,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2542.jpg,glioma,glioma,0.9999104738235474,0.1592680447305998,0.1592680447305998,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2543.jpg,glioma,glioma,0.9999854564666748,0.14794007490636704,0.14794007490636704,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2544.jpg,glioma,glioma,0.9999169111251831,0.18335901386748846,0.18335901386748846,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2545.jpg,glioma,glioma,0.9999932050704956,0.16256914566687156,0.16256914566687156,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2554.jpg,glioma,glioma,0.9999754428863525,0.027820121951219513,0.027820121951219513,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2555.jpg,glioma,glioma,0.9999959468841553,0.10569498069498069,0.10569498069498069,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2556.jpg,glioma,glioma,0.9999983310699463,0.29730332070425675,0.29730332070425675,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2557.jpg,glioma,glioma,0.9999935626983643,0.1735211267605634,0.1735211267605634,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2558.jpg,glioma,glioma,0.9999973773956299,0.17415307402760352,0.17415307402760352,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2559.jpg,glioma,glioma,0.9999881982803345,0.31689984454807907,0.31689984454807907,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2560.jpg,glioma,glioma,0.999985933303833,0.20708194289951798,0.20708194289951798,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2561.jpg,glioma,glioma,0.9996246099472046,0.28981806575167574,0.28981806575167574,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2562.jpg,glioma,glioma,0.994408130645752,0.043491212392016684,0.043491212392016684,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2563.jpg,glioma,glioma,0.9999911785125732,0.29192948406922203,0.29192948406922203,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2564.jpg,glioma,glioma,0.9999936819076538,0.3826086956521739,0.3826086956521739,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2565.jpg,glioma,glioma,0.9999983310699463,0.376422626125361,0.376422626125361,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2589.jpg,glioma,glioma,0.9999914169311523,0.031321108285370096,0.031321108285370096,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2590.jpg,glioma,glioma,0.999992847442627,0.06603140518051269,0.06603140518051269,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2591.jpg,glioma,glioma,0.9999960660934448,0.04922910467946984,0.04922910467946984,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2592.jpg,glioma,glioma,0.9999983310699463,0.06987341772151899,0.06987341772151899,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2593.jpg,glioma,glioma,0.9999979734420776,0.08449054709720595,0.08449054709720595,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2594.jpg,glioma,glioma,0.9999997615814209,0.08775386480751743,0.08775386480751743,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2631.jpg,glioma,glioma,0.9999970197677612,0.030388088845496704,0.030388088845496704,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2632.jpg,glioma,glioma,0.9999986886978149,0.06755785539744143,0.06755785539744143,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2633.jpg,glioma,glioma,0.9997996687889099,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2641.jpg,glioma,glioma,0.99982088804245,0.04105035732092405,0.04105035732092405,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2642.jpg,glioma,glioma,0.9999650716781616,0.025382134343009396,0.025382134343009396,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2643.jpg,glioma,glioma,0.9999470710754395,0.03426008968609866,0.03426008968609866,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2644.jpg,glioma,glioma,0.9999399185180664,0.013989927252378288,0.013989927252378288,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2645.jpg,glioma,glioma,0.9999772310256958,0.019126819126819128,0.019126819126819128,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2678.jpg,glioma,glioma,0.9999902248382568,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2679.jpg,glioma,glioma,0.9999964237213135,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2680.jpg,glioma,glioma,0.9999998807907104,0.043339706819630335,0.043339706819630335,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2681.jpg,glioma,glioma,0.9999990463256836,0.04103836610040084,0.04103836610040084,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2748.jpg,glioma,glioma,0.9999498128890991,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2749.jpg,glioma,glioma,0.9997701048851013,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2750.jpg,glioma,glioma,0.9999997615814209,0.021541617819460727,0.021541617819460727,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2751.jpg,glioma,glioma,0.9999985694885254,0.026596675415573052,0.026596675415573052,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2752.jpg,glioma,glioma,0.9998595714569092,0.013920240782543265,0.013920240782543265,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2795.jpg,glioma,glioma,0.9999991655349731,0.3830900578353071,0.3830900578353071,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2796.jpg,glioma,glioma,0.9999982118606567,0.40545144804088584,0.40545144804088584,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2797.jpg,glioma,glioma,0.9999902248382568,0.37508520790729377,0.37508520790729377,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2798.jpg,glioma,glioma,0.9999963045120239,0.13637472554281532,0.13637472554281532,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2799.jpg,glioma,glioma,0.9999984502792358,0.13071625344352616,0.13071625344352616,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2817.jpg,glioma,glioma,0.9999994039535522,0.03784295175023652,0.03784295175023652,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2818.jpg,glioma,glioma,0.9999277591705322,0.05165398903237219,0.05165398903237219,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2819.jpg,glioma,glioma,0.9999994039535522,0.06926811053024645,0.06926811053024645,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2820.jpg,glioma,glioma,0.9999524354934692,0.00634455832113226,0.00634455832113226,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2822.jpg,glioma,glioma,0.999377429485321,0.07312153303076148,0.07312153303076148,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2866.jpg,glioma,glioma,0.9999701976776123,0.07391852162956741,0.07391852162956741,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2867.jpg,glioma,glioma,0.999936580657959,0.18835840418574232,0.18835840418574232,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2868.jpg,glioma,glioma,0.9999816417694092,0.4105726872246696,0.4105726872246696,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2869.jpg,glioma,glioma,0.9990171194076538,0.48217804048002866,0.48217804048002866,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2870.jpg,glioma,glioma,0.9940475225448608,0.3050384710846364,0.3050384710846364,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2871.jpg,glioma,glioma,0.9995972514152527,0.45017438963627304,0.45017438963627304,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2872.jpg,glioma,glioma,0.9996839761734009,0.13942476324096809,0.13942476324096809,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2934.jpg,glioma,glioma,0.9998754262924194,0.06300947345230228,0.06300947345230228,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2935.jpg,glioma,glioma,0.9999173879623413,0.24574638844301766,0.24574638844301766,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2936.jpg,glioma,glioma,0.9990843534469604,0.2925409980603068,0.2925409980603068,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2937.jpg,glioma,glioma,0.9998219609260559,0.3237853517041334,0.3237853517041334,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2938.jpg,glioma,glioma,0.9999206066131592,0.3569778188539741,0.3569778188539741,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2939.jpg,glioma,glioma,0.9999150037765503,0.5235775526110679,0.5235775526110679,High Priority
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2940.jpg,glioma,glioma,0.9998749494552612,0.2566129959746981,0.2566129959746981,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2941.jpg,glioma,glioma,0.9999998807907104,0.3331038281465161,0.3331038281465161,Routine
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2942.jpg,glioma,glioma,0.9999908208847046,0.2976477125393591,0.2976477125393591,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2943.jpg,glioma,glioma,0.9999992847442627,0.16256555062525213,0.16256555062525213,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2975.jpg,glioma,glioma,0.9999994039535522,0.02406374501992032,0.02406374501992032,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2976.jpg,glioma,glioma,1.0,0.039401899373610834,0.039401899373610834,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2977.jpg,glioma,glioma,0.9999986886978149,0.04234567901234568,0.04234567901234568,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2978.jpg,glioma,glioma,0.9999972581863403,0.05965117983291807,0.05965117983291807,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2979.jpg,glioma,glioma,0.9998262524604797,0.023542462714162455,0.023542462714162455,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2980.jpg,glioma,glioma,0.9996106028556824,0.025730753396459447,0.025730753396459447,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2981.jpg,glioma,glioma,0.9997069239616394,0.042575919426217,0.042575919426217,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/2982.jpg,glioma,glioma,0.9998030066490173,0.03457844183564568,0.03457844183564568,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3056.jpg,glioma,glioma,0.9999991655349731,0.05736614566012637,0.05736614566012637,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3057.jpg,glioma,glioma,0.9999998807907104,0.06382599393831342,0.06382599393831342,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3058.jpg,glioma,glioma,0.9999995231628418,0.16674443925960492,0.16674443925960492,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3059.jpg,glioma,glioma,0.9999945163726807,0.28887535525781566,0.28887535525781566,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3060.jpg,glioma,glioma,0.9999984502792358,0.17033304657736267,0.17033304657736267,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3061.jpg,glioma,glioma,0.9999998807907104,0.1462556542134361,0.1462556542134361,Needs Review
+braintumormri_figshare/brainTumorDataPublic_2299-3064_jpeg/images/2/3062.jpg,glioma,glioma,0.9999687671661377,0.021564399137424035,0.021564399137424035,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1059.jpg,pituitary,pituitary,0.999981164932251,0.13002407853306167,0.13002407853306167,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1060.jpg,pituitary,pituitary,0.9998747110366821,0.07411322527601598,0.07411322527601598,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1061.jpg,pituitary,pituitary,0.9999297857284546,0.038475198295252755,0.038475198295252755,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1062.jpg,pituitary,pituitary,0.9999262094497681,0.06166360535292574,0.06166360535292574,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1063.jpg,pituitary,pituitary,0.9998461008071899,0.053337558090409805,0.053337558090409805,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1064.jpg,pituitary,pituitary,0.9985553622245789,0.01637900669249736,0.01637900669249736,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1124.jpg,pituitary,pituitary,0.9999982118606567,0.05011693952555964,0.05011693952555964,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1125.jpg,pituitary,pituitary,0.9999889135360718,0.05876168224299065,0.05876168224299065,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1126.jpg,pituitary,pituitary,0.999976634979248,0.05919891378139851,0.05919891378139851,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1127.jpg,pituitary,pituitary,0.9999988079071045,0.058988349800914316,0.058988349800914316,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1128.jpg,pituitary,pituitary,0.9999946355819702,0.05733333333333333,0.05733333333333333,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1194.jpg,pituitary,pituitary,0.999981164932251,0.0038427431274017146,0.0038427431274017146,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1195.jpg,pituitary,pituitary,0.9997486472129822,0.01704080991007986,0.01704080991007986,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1196.jpg,pituitary,pituitary,0.9999872446060181,0.007558139534883721,0.007558139534883721,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1197.jpg,pituitary,pituitary,0.9998865127563477,0.007196061103396036,0.007196061103396036,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1242.jpg,pituitary,pituitary,0.9999761581420898,0.010983524712930605,0.010983524712930605,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1243.jpg,pituitary,pituitary,0.9986969828605652,0.06905078942362564,0.06905078942362564,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1244.jpg,pituitary,pituitary,0.9987678527832031,0.03947934595524957,0.03947934595524957,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1245.jpg,pituitary,pituitary,0.9977625608444214,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1285.jpg,pituitary,pituitary,0.9989582300186157,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1286.jpg,pituitary,pituitary,0.9997019171714783,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1287.jpg,pituitary,pituitary,0.9993378520011902,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1288.jpg,pituitary,pituitary,0.9993243217468262,0.016692653398147298,0.016692653398147298,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1289.jpg,pituitary,pituitary,0.9999864101409912,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1290.jpg,pituitary,pituitary,0.9998483657836914,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1291.jpg,pituitary,pituitary,0.9999948740005493,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1292.jpg,pituitary,pituitary,0.9999784231185913,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1301.jpg,pituitary,pituitary,0.9999736547470093,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1302.jpg,pituitary,pituitary,0.9999759197235107,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1303.jpg,pituitary,pituitary,0.9999793767929077,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1310.jpg,pituitary,pituitary,0.9997715353965759,0.006736477022610552,0.006736477022610552,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1311.jpg,pituitary,pituitary,0.9984184503555298,0.03892252563944149,0.03892252563944149,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1312.jpg,pituitary,pituitary,0.9988841414451599,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1313.jpg,pituitary,pituitary,0.7566534876823425,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1314.jpg,pituitary,pituitary,0.9998776912689209,0.025146749764475687,0.025146749764475687,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1315.jpg,pituitary,pituitary,0.9972200393676758,0.012616401321718233,0.012616401321718233,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1316.jpg,pituitary,pituitary,0.8774088025093079,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1326.jpg,pituitary,pituitary,0.988486647605896,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1327.jpg,pituitary,pituitary,0.9579561352729797,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1328.jpg,pituitary,pituitary,0.9626856446266174,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1329.jpg,pituitary,pituitary,0.9961586594581604,0.0005759705103098721,0.0005759705103098721,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1374.jpg,pituitary,pituitary,0.9999772310256958,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1375.jpg,pituitary,pituitary,0.9999314546585083,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1376.jpg,pituitary,pituitary,0.9999639987945557,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1377.jpg,pituitary,pituitary,0.9999420642852783,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1386.jpg,pituitary,pituitary,0.9992259740829468,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1387.jpg,pituitary,pituitary,0.9945355653762817,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1388.jpg,pituitary,pituitary,0.9993786811828613,0.0032270759543486815,0.0032270759543486815,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1389.jpg,pituitary,pituitary,0.9978871941566467,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1390.jpg,pituitary,meningioma,0.8556379079818726,0.20733149389042177,0.20733149389042177,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1391.jpg,pituitary,pituitary,0.9981100559234619,0.05291005291005291,0.05291005291005291,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1392.jpg,pituitary,pituitary,0.9907605648040771,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1393.jpg,pituitary,pituitary,0.9855721592903137,0.05693730729701953,0.05693730729701953,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1394.jpg,pituitary,pituitary,0.9991862177848816,0.0028191175506457745,0.0028191175506457745,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1468.jpg,pituitary,pituitary,0.9954148530960083,0.003348748206027747,0.003348748206027747,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1469.jpg,pituitary,pituitary,0.9996980428695679,0.014778325123152709,0.014778325123152709,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1470.jpg,pituitary,pituitary,0.9995816349983215,0.01757209926224011,0.01757209926224011,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1471.jpg,pituitary,pituitary,0.9991292357444763,0.011970927746900385,0.011970927746900385,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1472.jpg,pituitary,pituitary,0.9999804496765137,0.015637484305444583,0.015637484305444583,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1473.jpg,pituitary,pituitary,0.9993139505386353,0.022631041027887284,0.022631041027887284,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1474.jpg,pituitary,pituitary,0.9999983310699463,0.012884148273312915,0.012884148273312915,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1475.jpg,pituitary,pituitary,0.9999489784240723,0.0079553672900093,0.0079553672900093,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1476.jpg,pituitary,pituitary,0.9977725148200989,0.012715105162523901,0.012715105162523901,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1477.jpg,pituitary,pituitary,0.9983331561088562,0.017208208636169304,0.017208208636169304,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1478.jpg,pituitary,pituitary,0.999946117401123,0.014299537684119987,0.014299537684119987,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1479.jpg,pituitary,pituitary,0.9998102784156799,0.01216931216931217,0.01216931216931217,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1487.jpg,pituitary,pituitary,0.999869704246521,0.00180151954257069,0.00180151954257069,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1488.jpg,pituitary,pituitary,0.9999866485595703,0.006827376938637896,0.006827376938637896,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1489.jpg,pituitary,pituitary,0.9999951124191284,0.011426027600534204,0.011426027600534204,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1490.jpg,pituitary,pituitary,0.9999924898147583,0.02437806805890673,0.02437806805890673,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1491.jpg,pituitary,pituitary,0.9999957084655762,0.00937018147313486,0.00937018147313486,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1492.jpg,pituitary,pituitary,0.9999963045120239,0.010638297872340425,0.010638297872340425,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1498.jpg,pituitary,pituitary,0.9998751878738403,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1499.jpg,pituitary,pituitary,0.9993038177490234,0.08811143505021056,0.08811143505021056,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1500.jpg,pituitary,pituitary,0.9996298551559448,0.06452826639074405,0.06452826639074405,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1501.jpg,pituitary,pituitary,0.9999477863311768,0.06617138908085694,0.06617138908085694,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1502.jpg,pituitary,pituitary,0.9999411106109619,0.08785993038708997,0.08785993038708997,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1503.jpg,pituitary,pituitary,0.9998270869255066,0.07086271437276921,0.07086271437276921,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1504.jpg,pituitary,pituitary,0.999901294708252,0.06414457352795154,0.06414457352795154,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1505.jpg,pituitary,pituitary,0.9997865557670593,0.07801100011224604,0.07801100011224604,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1515.jpg,pituitary,pituitary,0.9999290704727173,0.030492285084496695,0.030492285084496695,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1516.jpg,pituitary,pituitary,0.9999972581863403,0.0394333439052754,0.0394333439052754,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1517.jpg,pituitary,pituitary,0.9999997615814209,0.055957320687611146,0.055957320687611146,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1518.jpg,pituitary,pituitary,0.9999948740005493,0.04988149105796165,0.04988149105796165,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1519.jpg,pituitary,pituitary,0.9999980926513672,0.02549281161997925,0.02549281161997925,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/1520.jpg,pituitary,pituitary,0.9999967813491821,0.01417034892579613,0.01417034892579613,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/768.jpg,glioma,glioma,0.989773690700531,0.044341216216216214,0.044341216216216214,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/769.jpg,glioma,glioma,0.9017038941383362,0.1747159090909091,0.1747159090909091,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/770.jpg,glioma,glioma,0.999846339225769,0.0659919028340081,0.0659919028340081,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/771.jpg,glioma,glioma,0.9898548126220703,0.05702647657841141,0.05702647657841141,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/772.jpg,glioma,meningioma,0.9366929531097412,0.10951239008792965,0.10951239008792965,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/773.jpg,glioma,glioma,0.9699128270149231,0.245221027479092,0.245221027479092,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/774.jpg,glioma,meningioma,0.997027575969696,0.17478991596638654,0.17478991596638654,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/775.jpg,glioma,meningioma,0.9945365190505981,0.2138188608776844,0.2138188608776844,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/776.jpg,glioma,meningioma,0.9148168563842773,0.2911247130833971,0.2911247130833971,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/777.jpg,glioma,glioma,0.9945542812347412,0.09621489621489622,0.09621489621489622,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/778.jpg,glioma,glioma,0.687568724155426,0.09181886414811108,0.09181886414811108,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/846.jpg,glioma,meningioma,0.7818148136138916,0.01653398652786283,0.01653398652786283,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/847.jpg,glioma,glioma,0.9982089996337891,0.03804994054696789,0.03804994054696789,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/848.jpg,glioma,glioma,0.9999123811721802,0.27001806140878987,0.27001806140878987,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/849.jpg,glioma,glioma,0.9998794794082642,0.2922176457836549,0.2922176457836549,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/850.jpg,glioma,glioma,0.9985817670822144,0.3071804823953424,0.3071804823953424,Routine
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/851.jpg,glioma,glioma,0.9886946082115173,0.13195232690124858,0.13195232690124858,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/852.jpg,glioma,meningioma,0.9945613741874695,0.06,0.06,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/853.jpg,glioma,meningioma,0.9977825284004211,0.06848306332842416,0.06848306332842416,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/854.jpg,glioma,glioma,0.9929792284965515,0.16271942045137922,0.16271942045137922,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/855.jpg,glioma,glioma,0.9703304767608643,0.20466562986003112,0.20466562986003112,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/856.jpg,glioma,glioma,0.9816074371337891,0.08697427521437322,0.08697427521437322,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/883.jpg,glioma,glioma,0.6462938785552979,0.09887968826108134,0.09887968826108134,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/884.jpg,glioma,meningioma,0.5117109417915344,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/885.jpg,glioma,meningioma,0.5956897735595703,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/886.jpg,glioma,meningioma,0.9442476034164429,0.062446826612217114,0.062446826612217114,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/2/887.jpg,glioma,glioma,0.9457460045814514,0.10437710437710437,0.10437710437710437,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/946.jpg,pituitary,pituitary,0.9997169375419617,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/947.jpg,pituitary,pituitary,0.9996699094772339,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/948.jpg,pituitary,pituitary,0.998176097869873,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/949.jpg,pituitary,pituitary,0.9986324906349182,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/990.jpg,pituitary,pituitary,0.9999867677688599,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/991.jpg,pituitary,pituitary,0.9999039173126221,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/992.jpg,pituitary,pituitary,0.9997305274009705,0.0,0.0,Needs Review
+braintumormri_figshare/brainTumorDataPublic_767-1532_jpeg/images/3/993.jpg,pituitary,pituitary,0.9999203681945801,0.0,0.0,Needs Review
+braintumormri_kaggle/Training/notumor/Tr-no_1000.jpg,notumor,pituitary,0.5688228011131287,0.0,0.0,Needs Review
+braintumormri_kaggle/Training/notumor/Tr-no_1003.jpg,notumor,notumor,0.9981537461280823,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1007.jpg,notumor,pituitary,0.7597226500511169,0.0,0.0,Needs Review
+braintumormri_kaggle/Training/notumor/Tr-no_1008.jpg,notumor,notumor,0.9998526573181152,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1012.jpg,notumor,notumor,0.9999995231628418,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1014.jpg,notumor,notumor,0.9991425275802612,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1017.jpg,notumor,notumor,0.9999963045120239,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1027.jpg,notumor,notumor,0.9999938011169434,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1035.jpg,notumor,notumor,0.9998311996459961,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1039.jpg,notumor,notumor,0.9998449087142944,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_104.jpg,notumor,notumor,0.9999984502792358,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1045.jpg,notumor,notumor,0.9999946355819702,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1047.jpg,notumor,notumor,0.9999138116836548,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1051.jpg,notumor,notumor,0.9999706745147705,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1059.jpg,notumor,notumor,0.9700614213943481,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1060.jpg,notumor,notumor,0.9999721050262451,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1073.jpg,notumor,notumor,0.9992367029190063,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_108.jpg,notumor,notumor,0.9997594952583313,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1086.jpg,notumor,notumor,0.9997921586036682,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1088.jpg,notumor,notumor,0.9998165965080261,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1089.jpg,notumor,notumor,0.9996383190155029,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1091.jpg,notumor,notumor,0.999828577041626,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1102.jpg,notumor,notumor,0.9999929666519165,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_111.jpg,notumor,notumor,0.9998134970664978,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1121.jpg,notumor,notumor,0.9999498128890991,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1128.jpg,notumor,notumor,0.9999861717224121,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1129.jpg,notumor,notumor,0.9999186992645264,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1136.jpg,notumor,notumor,0.999289870262146,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1152.jpg,notumor,notumor,0.9999966621398926,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1153.jpg,notumor,notumor,0.999893069267273,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1156.jpg,notumor,notumor,0.9999582767486572,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1157.jpg,notumor,notumor,0.9999955892562866,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1162.jpg,notumor,notumor,0.9999923706054688,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1165.jpg,notumor,notumor,0.9999974966049194,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1171.jpg,notumor,notumor,0.9999974966049194,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1172.jpg,notumor,pituitary,0.6484766602516174,0.0,0.0,Needs Review
+braintumormri_kaggle/Training/notumor/Tr-no_1179.jpg,notumor,notumor,0.9999983310699463,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1187.jpg,notumor,notumor,0.9999890327453613,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1198.jpg,notumor,notumor,0.9997881054878235,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1203.jpg,notumor,notumor,0.9999877214431763,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_122.jpg,notumor,notumor,0.9999401569366455,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1222.jpg,notumor,notumor,0.9999558925628662,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1250.jpg,notumor,notumor,0.9999954700469971,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1251.jpg,notumor,notumor,0.9999650716781616,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1279.jpg,notumor,notumor,0.9998176693916321,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1307.jpg,notumor,notumor,0.999997615814209,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1321.jpg,notumor,notumor,0.9999802112579346,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1346.jpg,notumor,notumor,0.9997043013572693,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1347.jpg,notumor,notumor,0.9998891353607178,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_135.jpg,notumor,notumor,0.9999964237213135,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1359.jpg,notumor,notumor,0.9999600648880005,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_136.jpg,notumor,notumor,0.9999985694885254,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1363.jpg,notumor,notumor,0.998536229133606,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1368.jpg,notumor,notumor,0.9999723434448242,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1387.jpg,notumor,notumor,0.9989126920700073,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_1397.jpg,notumor,notumor,0.9999994039535522,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_140.jpg,notumor,notumor,0.9999878406524658,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_157.jpg,notumor,notumor,0.9999054670333862,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_161.jpg,notumor,notumor,0.9999761581420898,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_183.jpg,notumor,notumor,0.9999982118606567,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_184.jpg,notumor,notumor,0.9999167919158936,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_187.jpg,notumor,notumor,0.999996542930603,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_195.jpg,notumor,notumor,0.9998582601547241,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_197.jpg,notumor,notumor,0.9998574256896973,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_199.jpg,notumor,notumor,0.999974250793457,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_203.jpg,notumor,notumor,0.9999814033508301,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_206.jpg,notumor,notumor,0.9999995231628418,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_211.jpg,notumor,notumor,0.9997974038124084,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_212.jpg,notumor,notumor,0.9999897480010986,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_237.jpg,notumor,notumor,0.9999823570251465,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_241.jpg,notumor,notumor,0.999991774559021,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_244.jpg,notumor,notumor,0.999947190284729,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_256.jpg,notumor,notumor,0.9999649524688721,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_266.jpg,notumor,notumor,0.999984622001648,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_267.jpg,notumor,notumor,0.9999730587005615,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_27.jpg,notumor,notumor,0.9999905824661255,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_274.jpg,notumor,notumor,0.9999998807907104,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_284.jpg,notumor,notumor,0.9999992847442627,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_305.jpg,notumor,notumor,0.9939268231391907,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_307.jpg,notumor,notumor,0.9966306090354919,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_309.jpg,notumor,notumor,0.9970073103904724,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_310.jpg,notumor,notumor,0.9999744892120361,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_320.jpg,notumor,notumor,0.9997434020042419,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_322.jpg,notumor,notumor,0.9999551773071289,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_323.jpg,notumor,notumor,0.9999383687973022,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_335.jpg,notumor,notumor,0.9999998807907104,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_339.jpg,notumor,notumor,0.9999589920043945,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_34.jpg,notumor,notumor,0.9999983310699463,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_345.jpg,notumor,notumor,0.9999998807907104,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_347.jpg,notumor,notumor,0.9999836683273315,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_365.jpg,notumor,notumor,0.9999097585678101,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_367.jpg,notumor,notumor,0.9999878406524658,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_38.jpg,notumor,notumor,0.9996740818023682,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_386.jpg,notumor,notumor,0.9999845027923584,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_391.jpg,notumor,notumor,0.9987764954566956,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_396.jpg,notumor,notumor,0.9999698400497437,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_423.jpg,notumor,notumor,0.9999990463256836,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_43.jpg,notumor,notumor,0.9999896287918091,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_440.jpg,notumor,notumor,0.9999923706054688,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_450.jpg,notumor,notumor,0.9999973773956299,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_459.jpg,notumor,notumor,0.999693751335144,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_46.jpg,notumor,notumor,0.999997615814209,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_474.jpg,notumor,notumor,0.9999986886978149,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_478.jpg,notumor,notumor,0.9999607801437378,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_480.jpg,notumor,notumor,0.9999772310256958,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_484.jpg,notumor,notumor,0.9999767541885376,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_495.jpg,notumor,notumor,0.9998944997787476,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_496.jpg,notumor,notumor,0.99955815076828,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_505.jpg,notumor,notumor,0.9999815225601196,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_508.jpg,notumor,notumor,0.9998340606689453,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_509.jpg,notumor,notumor,0.9999998807907104,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_512.jpg,notumor,notumor,0.9999855756759644,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_515.jpg,notumor,notumor,0.9999998807907104,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_522.jpg,notumor,notumor,0.7517626881599426,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_524.jpg,notumor,notumor,0.9996793270111084,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_526.jpg,notumor,notumor,0.9994539618492126,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_538.jpg,notumor,notumor,0.9999650716781616,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_541.jpg,notumor,notumor,0.9999943971633911,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_545.jpg,notumor,notumor,0.999997615814209,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_548.jpg,notumor,notumor,0.9993703961372375,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_553.jpg,notumor,notumor,0.9998596906661987,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_575.jpg,notumor,notumor,0.9999934434890747,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_58.jpg,notumor,notumor,0.9999067783355713,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_587.jpg,notumor,notumor,0.9999996423721313,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_589.jpg,notumor,notumor,0.9995803236961365,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_605.jpg,notumor,notumor,0.9999754428863525,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_61.jpg,notumor,notumor,0.9996238946914673,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_611.jpg,notumor,notumor,0.9999974966049194,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_621.jpg,notumor,notumor,0.999950647354126,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_622.jpg,notumor,notumor,0.9996216297149658,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_623.jpg,notumor,notumor,0.9997536540031433,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_630.jpg,notumor,notumor,0.999862790107727,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_631.jpg,notumor,notumor,0.9998806715011597,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_637.jpg,notumor,notumor,0.9999978542327881,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_649.jpg,notumor,notumor,0.9999996423721313,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_659.jpg,notumor,notumor,0.9999709129333496,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_67.jpg,notumor,notumor,0.9999860525131226,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_673.jpg,notumor,notumor,0.9999938011169434,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_675.jpg,notumor,notumor,0.9998407363891602,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_685.jpg,notumor,notumor,0.9999974966049194,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_696.jpg,notumor,notumor,0.9999967813491821,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_697.jpg,notumor,notumor,0.9996463060379028,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_708.jpg,notumor,notumor,0.9999980926513672,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_709.jpg,notumor,notumor,0.9999706745147705,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_712.jpg,notumor,notumor,0.9998717308044434,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_713.jpg,notumor,notumor,0.9999992847442627,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_715.jpg,notumor,notumor,0.9996843338012695,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_719.jpg,notumor,notumor,0.9999955892562866,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_729.jpg,notumor,notumor,0.9998955726623535,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_737.jpg,notumor,notumor,0.9980880618095398,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_744.jpg,notumor,notumor,0.9999592304229736,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_748.jpg,notumor,notumor,0.9996515512466431,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_75.jpg,notumor,notumor,0.999674916267395,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_754.jpg,notumor,notumor,0.9999954700469971,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_76.jpg,notumor,notumor,0.9999630451202393,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_765.jpg,notumor,notumor,0.9999980926513672,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_766.jpg,notumor,notumor,0.9999790191650391,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_770.jpg,notumor,notumor,0.9999887943267822,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_787.jpg,notumor,notumor,1.0,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_798.jpg,notumor,notumor,0.9999935626983643,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_80.jpg,notumor,notumor,0.999948263168335,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_809.jpg,notumor,notumor,0.999824583530426,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_812.jpg,notumor,notumor,0.999998927116394,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_829.jpg,notumor,notumor,0.9999614953994751,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_842.jpg,notumor,notumor,0.9999982118606567,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_844.jpg,notumor,notumor,0.9999855756759644,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_856.jpg,notumor,notumor,0.9999934434890747,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_862.jpg,notumor,notumor,0.9999971389770508,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_881.jpg,notumor,notumor,0.9998741149902344,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_884.jpg,notumor,notumor,0.9999973773956299,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_887.jpg,notumor,notumor,0.9998847246170044,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_898.jpg,notumor,notumor,0.9999798536300659,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_907.jpg,notumor,notumor,0.9998249411582947,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_910.jpg,notumor,notumor,0.9999994039535522,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_917.jpg,notumor,notumor,0.9999967813491821,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_936.jpg,notumor,notumor,0.9994364380836487,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_938.jpg,notumor,notumor,0.999568521976471,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_943.jpg,notumor,notumor,0.9999818801879883,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_951.jpg,notumor,notumor,0.9999990463256836,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_956.jpg,notumor,notumor,0.999944806098938,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_957.jpg,notumor,notumor,0.9988133907318115,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_988.jpg,notumor,notumor,0.9999997615814209,,,Routine
+braintumormri_kaggle/Training/notumor/Tr-no_997.jpg,notumor,notumor,0.9999932050704956,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_103.jpg,notumor,notumor,0.9999649524688721,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_110.jpg,notumor,notumor,0.9999921321868896,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_124.jpg,notumor,notumor,0.9999897480010986,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_128.jpg,notumor,notumor,0.9998588562011719,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_134.jpg,notumor,notumor,0.9999872446060181,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_137.jpg,notumor,notumor,0.9999094009399414,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_144.jpg,notumor,notumor,0.9999810457229614,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_146.jpg,notumor,notumor,0.9999979734420776,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_15.jpg,notumor,notumor,0.9933706521987915,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_152.jpg,notumor,notumor,0.9999648332595825,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_163.jpg,notumor,notumor,0.9993096590042114,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_169.jpg,notumor,notumor,0.9999665021896362,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_177.jpg,notumor,notumor,0.996791660785675,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_189.jpg,notumor,notumor,0.9999097585678101,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_190.jpg,notumor,notumor,0.9999936819076538,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_192.jpg,notumor,notumor,0.9998575448989868,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_193.jpg,notumor,notumor,0.9964470267295837,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_200.jpg,notumor,notumor,0.9999966621398926,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_203.jpg,notumor,notumor,0.9999558925628662,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_210.jpg,notumor,notumor,0.9999294281005859,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_218.jpg,notumor,notumor,0.9999579191207886,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_224.jpg,notumor,notumor,0.9987480640411377,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_229.jpg,notumor,notumor,0.9999839067459106,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_230.jpg,notumor,notumor,0.9999772310256958,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_239.jpg,notumor,notumor,0.9976275563240051,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_256.jpg,notumor,notumor,0.9998328685760498,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_257.jpg,notumor,notumor,0.9999350309371948,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_260.jpg,notumor,notumor,0.9999954700469971,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_271.jpg,notumor,notumor,0.999996542930603,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_275.jpg,notumor,notumor,0.9999479055404663,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_281.jpg,notumor,notumor,0.9998235106468201,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_285.jpg,notumor,notumor,0.9998980760574341,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_287.jpg,notumor,notumor,0.9999604225158691,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_29.jpg,notumor,notumor,0.999647855758667,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_305.jpg,notumor,notumor,0.9971064925193787,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_330.jpg,notumor,notumor,0.9999896287918091,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_335.jpg,notumor,notumor,0.9999619722366333,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_339.jpg,notumor,notumor,0.9999277591705322,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_342.jpg,notumor,notumor,0.9995417594909668,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_344.jpg,notumor,notumor,0.9999024868011475,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_351.jpg,notumor,notumor,0.9999932050704956,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_352.jpg,notumor,notumor,0.9997847676277161,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_363.jpg,notumor,notumor,1.0,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_366.jpg,notumor,notumor,0.9999650716781616,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_372.jpg,notumor,notumor,0.9995111227035522,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_374.jpg,notumor,notumor,0.9998500347137451,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_386.jpg,notumor,notumor,0.9942479133605957,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_389.jpg,notumor,notumor,0.9999978542327881,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_391.jpg,notumor,notumor,0.9999021291732788,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_394.jpg,notumor,notumor,0.999913215637207,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_45.jpg,notumor,notumor,0.999942421913147,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_47.jpg,notumor,notumor,0.9999949932098389,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_48.jpg,notumor,notumor,0.999948263168335,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_58.jpg,notumor,notumor,0.9999786615371704,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_69.jpg,notumor,notumor,0.9999896287918091,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_7.jpg,notumor,notumor,0.9999581575393677,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_76.jpg,notumor,notumor,0.9999995231628418,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_83.jpg,notumor,notumor,0.9999953508377075,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_84.jpg,notumor,notumor,0.999996542930603,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_91.jpg,notumor,notumor,0.9999871253967285,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_94.jpg,notumor,notumor,0.9988565444946289,,,Routine
+braintumormri_kaggle/Testing/notumor/Te-no_97.jpg,notumor,notumor,0.9999886751174927,,,Routine
