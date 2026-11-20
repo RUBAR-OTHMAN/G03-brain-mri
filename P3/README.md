@@ -1,9 +1,10 @@
 # G03 Brain MRI Triage: Classification (P3)
 
-Owner: Mihir Belose (P3). Checkpoint: "Full-slice baseline running", Nov 12.
+Owner: Mihir Belose (P3). Checkpoints: "Full-slice baseline running" (Nov 12) and "Segmented
+crop pipeline ready" (Nov 15).
 
-ResNet-50 fine-tuned on full MRI slices. This is the benchmark the segmented-crop classifier
-gets compared against (same architecture, loss and hyperparameters, only the input changes).
+ResNet-50 fine-tuned on full MRI slices, and the same setup fine-tuned on tumor crops. The two
+differ only in the input, so the comparison isolates the effect of cropping.
 
 ## Run it
 
@@ -11,9 +12,14 @@ Needs P1's `integration_project` folder (images + `splits.csv` + `brain_mri_data
 `P1/README.md`).
 
 ```
-python train_classifier.py --data-root path/to/integration_project
+python train_classifier.py --data-root path/to/integration_project                # full slice
+python crop_shortcut_check.py --data-root path/to/integration_project             # crop leak check
+python train_classifier.py --data-root path/to/integration_project --input crop   # oracle crops
 # colab: --data-root /content/drive/MyDrive/integration_project
 ```
+
+The crop mode needs P2's `P2/crop_tumor.py` (PR #6). Set `TORCH_HOME=path/to/integration_project/torch_cache`
+to reuse the cached ImageNet weights instead of downloading them.
 
 Uses CUDA, then Apple MPS, then CPU. On an M-series Mac it takes ~23 min (about 80s per warm-up
 epoch and 115s per fine-tune epoch).
@@ -70,8 +76,42 @@ Files in `results/full_slice/`: `history.csv` (per-epoch train/dev loss, acc, ma
   show the model is looking at tumors. The tumor-only classes are the more honest number here.
 - Dev only has ~10-14 patients per tumor class, so per-class F1 is noisy.
 
+## Crop input (Nov 15)
+
+`crop_data.py` runs every image through P2's `crop_tumor_image`: a square box around the mask,
+20% padding, a 48 px minimum, resized to 224.
+
+- **Tumor boxes come from the ground-truth masks**, so these are oracle crops and any
+  results trained on them are an upper bound. A real input has no ground truth. The final comparison
+  needs P2's predicted masks for dev and test.
+- **No-tumor images get a size-matched decoy box.** P2's default keeps the full slice for
+  no-tumor, which makes zoom alone separate tumor from no-tumor. Instead, each no-tumor image
+  gets the height and width of a random train tumor's mask box, centred on a random point inside
+  the head, and goes through the same crop call. Dev decoys are fixed per image; train decoys are
+  redrawn every epoch.
+
+![crop preview](results/crop/crop_preview.png)
+
+### Shortcut check
+
+A random forest on 11 brightness statistics of the model input, with no tumor shape information,
+fit on train and scored on dev (`crop_shortcut_check.py`, same idea as P1's baseline):
+
+| Input | 4-class acc | 4-class macro-F1 | Tumor vs. no-tumor acc |
+|---|---:|---:|---:|
+| Full slice | 0.865 | 0.845 | 0.970 |
+| Crop, no-tumor kept as full slice (P2 default) | 0.837 | 0.803 | 0.986 |
+| **Crop, no-tumor decoy (used here)** | **0.721** | **0.690** | **0.866** |
+
+The decoy lowers the brightness-only bar from 0.845 to 0.690 macro-F1, so the crop classifier
+has to rely more on the image content. The remaining 0.866 tumor vs. no-tumor accuracy is partly
+genuine (enhancing tumors are bright) and partly the sequence difference P1 found between the
+two sources; cropping can't remove that.
+
+Files in `results/crop/`: `shortcut_check.md`, `crop_preview.png`.
+
 ## Next
 
-- Nov 15: once P2's crop script is ready, train the same setup on crops.
-- Nov 18: dev comparison table, full slice vs. crop.
-- Nov 28: one-time test-set comparison.
+- Nov 18: train on crops (`--input crop`), log per-class dev F1 and curves, draft the full vs.
+  crop comparison table. Rerun with P2's predicted masks once they exist.
+- Nov 28: one-time test-set comparison, crops from predicted masks only.
