@@ -1,7 +1,8 @@
 # G03 Brain MRI Triage: Classification (P3)
 
 Owner: Mihir Belose (P3). Checkpoints: "Full-slice baseline running" (Nov 12), "Segmented
-crop pipeline ready" (Nov 15) and "Fine-tuned classifier complete" (Nov 18).
+crop pipeline ready" (Nov 15), "Fine-tuned classifier complete" (Nov 18) and "Controlled
+comparison finalized" (Nov 28).
 
 ResNet-50 fine-tuned on full MRI slices, and the same setup fine-tuned on tumor crops. The two
 differ only in the input, so the comparison isolates the effect of cropping.
@@ -15,17 +16,22 @@ Needs P1's `integration_project` folder (images + `splits.csv` + `brain_mri_data
 python train_classifier.py --data-root path/to/integration_project                # full slice
 python crop_shortcut_check.py --data-root path/to/integration_project             # crop leak check
 python train_classifier.py --data-root path/to/integration_project --input crop   # oracle crops
-python compare_inputs.py                                                          # full vs. crop table
+python evaluate.py --data-root path/to/integration_project --split dev            # per-image results
+python compare_inputs.py --data-root path/to/integration_project --split dev      # full vs. crop table
+python evaluate.py --data-root path/to/integration_project --split test           # final comparison
+python compare_inputs.py --data-root path/to/integration_project --split test
 # colab: --data-root /content/drive/MyDrive/integration_project
 ```
 
-The crop mode needs P2's `P2/crop_tumor.py` (PR #6). Set `TORCH_HOME=path/to/integration_project/torch_cache`
+The crop mode needs P2's `P2/crop_tumor.py`; `evaluate.py` also reads P2's
+`P2/<split>_predicted_masks.npz`. Set `TORCH_HOME=path/to/integration_project/torch_cache`
 to reuse the cached ImageNet weights instead of downloading them.
 
 Uses CUDA, then Apple MPS, then CPU. On an M-series Mac it takes ~23 min (about 80s per warm-up
 epoch and 115s per fine-tune epoch).
 
-Only train and dev are used. Test isn't touched until the final full vs. crop comparison.
+Training and every setting choice use only train and dev. Test was run once, on Nov 26, for
+the final comparison below.
 
 ## Setup
 
@@ -83,10 +89,10 @@ Files in `results/full_slice/`: `history.csv` (per-epoch train/dev loss, acc, ma
 20% padding, a 48 px minimum, resized to 224.
 
 - **Tumor boxes come from the ground-truth masks**, so these are oracle crops and any
-  results trained on them are an upper bound. A real input has no ground truth. The final comparison
-  needs P2's predicted masks for dev and test.
-- **No-tumor images get a size-matched decoy box.** P2's default keeps the full slice for
-  no-tumor, which makes zoom alone separate tumor from no-tumor. Instead, each no-tumor image
+  results trained on them are an upper bound. A real input has no ground truth, so the final
+  comparison below also scores crops from P2's predicted masks.
+- **No-tumor images get a size-matched decoy box.** Keeping the full slice for no-tumor
+  makes zoom alone separate tumor from no-tumor. Instead, each no-tumor image
   gets the height and width of a random train tumor's mask box, centred on a random point inside
   the head, and goes through the same crop call. Dev decoys are fixed per image; train decoys are
   redrawn every epoch.
@@ -101,7 +107,7 @@ fit on train and scored on dev (`crop_shortcut_check.py`, same idea as P1's base
 | Input | 4-class acc | 4-class macro-F1 | Tumor vs. no-tumor acc |
 |---|---:|---:|---:|
 | Full slice | 0.865 | 0.845 | 0.970 |
-| Crop, no-tumor kept as full slice (P2 default) | 0.837 | 0.803 | 0.986 |
+| Crop, no-tumor kept as full slice | 0.837 | 0.803 | 0.986 |
 | **Crop, no-tumor decoy (used here)** | **0.721** | **0.690** | **0.866** |
 
 The decoy lowers the brightness-only bar from 0.845 to 0.690 macro-F1, so the crop classifier
@@ -138,7 +144,7 @@ Confusion (rows true, cols predicted):
 
 ### Full slice vs. crop (draft, dev only)
 
-From `compare_inputs.py` (`results/comparison.md` also has precision, recall and both confusion
+From `compare_inputs.py` (`results/comparison_dev.md` also has precision, recall and the confusion
 matrices), except the two brightness-only rows, which come from `results/crop/shortcut_check.md`.
 That check computes the brightness statistics on the exact model input, which gives 0.845 on
 full slices. P1's 0.843 in the full-slice results above uses the same statistics on a plain
@@ -176,7 +182,69 @@ ground-truth masks, so the crop column is likely optimistic.
 Files in `results/crop/`: `history.csv`, `curves.png`, `dev_report.txt`, `dev_per_class_f1.csv`,
 `dev_confusion.csv`, `train.log` (`best.pt` not in git).
 
-## Next
+## Controlled comparison (Nov 28)
 
-- Rerun the crop classifier with P2's predicted masks once they exist, for a non-oracle number.
-- Nov 28: one-time test-set comparison, crops from predicted masks only.
+`evaluate.py` scores the two saved checkpoints (no retraining) and writes one row per image to
+`results/<split>/<setting>.csv`; `compare_inputs.py` builds `results/comparison_<split>.md` from
+those files. The crop model is scored three ways:
+
+- **True masks (oracle):** crops around the ground-truth mask, as in training. Upper bound.
+- **U-Net masks (pipeline):** crops around P2's predicted mask (`P2/<split>_predicted_masks.npz`).
+  No ground truth or label is read. When the mask is empty, P2's `crop_tumor_image` picks a decoy
+  box. These are exactly the crops P4's pipeline uses: on dev, every one of the 731 predictions
+  matches P4's `dev_results_unet.csv`.
+- **U-Net masks, P3 decoy:** the same, but an empty mask gets the size-matched decoy the crop model
+  trained on.
+
+All settings were fixed on dev before test was run. The two decoy rules apply to every empty U-Net
+mask (on dev, 243 no-tumor images and 52 tumors the U-Net misses), but they change only 21 dev
+predictions: 20 on missed tumors, where either rule crops a random patch of brain, and 1 no-tumor
+image. The pipeline row uses P2's rule, so the P3 and P4 test numbers agree. The P3-decoy row is
+reported as a sensitivity check.
+
+95% CIs come from a patient bootstrap: whole patients are resampled within each class, because
+test has only 9-14 patients per tumor class. The change column is paired against the full slice.
+
+### Test results (n = 682, run once)
+
+| | Acc | Macro-F1 | Macro-F1 95% CI | Change vs. full | Change 95% CI | Errors | Missed tumors |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| **Full slice** | 0.972 | **0.966** | 0.938 to 0.989 | | | 19 | 0 |
+| Crop, true masks (oracle) | 0.963 | 0.956 | 0.909 to 0.988 | -0.011 | -0.049 to +0.024 | 25 | 7 |
+| **Crop, U-Net masks (pipeline)** | 0.940 | **0.930** | 0.884 to 0.967 | **-0.036** | -0.071 to -0.004 | 41 | 12 |
+| Crop, U-Net masks, P3 decoy | 0.931 | 0.923 | 0.875 to 0.960 | -0.043 | -0.077 to -0.013 | 47 | 21 |
+
+| Test class F1 | n | Full slice | Crop, oracle | Crop, pipeline |
+|---|---:|---:|---:|---:|
+| glioma | 204 | 0.968 | 0.964 | 0.947 |
+| meningioma | 97 | 0.943 | 0.928 | 0.918 |
+| pituitary | 135 | 0.960 | 0.945 | 0.882 |
+| notumor | 246 | 0.994 | 0.986 | 0.972 |
+
+Dev, for reference (`results/comparison_dev.md`): full slice 0.966, oracle crop 0.978, pipeline
+crop 0.947, P3 decoy 0.940 macro-F1.
+
+### What it shows
+
+- **Cropping does not beat the full slice.** With U-Net masks, the crop pipeline is 0.036
+  macro-F1 below the full slice, and the patient-bootstrap CI excludes zero. Even with true masks,
+  the crop model is not better on test (-0.011, CI includes zero). The dev advantage of oracle crops
+  (+0.012) did not carry over to test.
+- **Missed tumors are the main cost.** The full slice calls no tumor no-tumor on test; the crop
+  pipeline misses 12, and the oracle crop 7. For triage, a missed tumor is the worst error.
+- **Empty U-Net masks cause most of the drop from oracle to pipeline.** 50 of 436 test tumors
+  (11.5%; 36 glioma, 13 pituitary, 1 meningioma) get an empty U-Net mask and so a decoy crop. Of
+  the 16 extra test errors, 9 are on those 50 images, 5 on tumors with an imperfect U-Net mask and
+  2 on no-tumor images. Pituitary is hit hardest: its F1 falls from 0.945 (oracle) to 0.882.
+- **The crop model itself is also weaker on test.** Even with true masks it makes 20 errors on the
+  386 test tumors that do get a U-Net mask, against 13 for the full slice.
+- **The crop model still leans less on shortcuts.** A brightness-only model reaches 0.690 macro-F1
+  on crops against 0.845 on full slices (dev, shortcut check above), so the full slice's higher
+  score may partly come from cues outside the tumor, such as the scan-source difference P1 found.
+  This comparison can't separate the two.
+- **Limits:** one training run per input (seed 539), and test has 9-14 patients per tumor class,
+  so the CIs are wide. Figshare images are split by patient; Kaggle no-tumor images have no
+  patient IDs and are grouped by near-duplicates.
+
+Files: `results/comparison_test.md` (precision, recall, confusion matrices, U-Net mask counts),
+`results/comparison_dev.md`, and per-image results in `results/dev/` and `results/test/`.
